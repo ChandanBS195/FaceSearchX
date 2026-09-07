@@ -1,0 +1,225 @@
+{
+  "evidence_hash": "ec9786d562fa8aede119011198f742d271ac98948ec33a38987cab1c99869aa5",
+  "payload": {
+    "evidence_version": "1.0",
+    "timestamp_utc": "2026-09-02T07:19:06.867824+00:00",
+    "timestamp_unix": 1788333546,
+    "search_engine": "google_lens",
+    "verification_threshold": 0.5,
+    "input_source": "c:\\Users\\chand\\Downloads\\FaceID\\Resources\\Screenshot 2026-09-02 100028.png",
+    "input_file_sha256": "c54381b7a197ddb332ab46e4c3e3a66227e420d5e7c6a2b46c700355ca8d6506",
+    "face_detection": {
+      "det_score": 0.7963916659355164,
+      "embedding_sha256": "a71b758dce0a56967b9924e5a284f8806b48b6c6d95003cabba90a2e64774fd3",
+      "bbox": [
+        245,
+        51,
+        395,
+        235
+      ]
+    },
+    "verified_matches_count": 20,
+    "matches": [
+      {
+        "rank": 1,
+        "similarity_score": 0.9345,
+        "similarity_percentage": "93.45%",
+        "source_title": "Gautam Adani Replaces Jeff Bezos as Second Richest ...",
+        "source_url": "https://www.bloomberg.com/news/articles/2022-09-16/jeff-bezos-loses-spot-as-world-s-second-richest-person-to-india-s-gautam-adani",
+        "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iquSE_4OaUfM/v0/1200x857.jpg",
+        "source_domain": "Bloomberg.com",
+        "candidate_image_sha256": "602cbafa75dcff48af94a2adb917a79a5297c8ae617a689143501de6480d94dc"
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.9243,
+        "similarity_percentage": "92.43%",
+        "source_title": "Adani | Gautam Adani's net worth falls to seventh place ...",
+        "source_url": "https://www.politicalfunda.com/2023/01/adani-gautam-adanis-net-worth-falls-to-seventh-place-after-hindenburg-report.html",
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTDQq726EWGmJiszxn4cE8lkAP2kX5IBFe2qkPWExJglzzM0UKzKVtTqc2SuX3PdEFpYeXw7tX6L7Jk8ToqKh9hV6OmyD44eC9txB_K9VYTPhga97Dk-RzHSxOQEHwHRPTaRWS3njSuviYnHVb3FVymbQLSOAy8M3gJyNz7qg202foiJ4ZVmRL1MP0Fg/s922/Gautam Adani.jpg",
+        "source_domain": "Political Funda",
+        "candidate_image_sha256": "9ff6322655b3f927a6a2af6196d219b7517f69eb6791a64d0ec0a72e4642501f"
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.8806,
+        "similarity_percentage": "88.06%",
+        "source_title": "Adani Scandal | StreetFins\u00ae",
+        "source_url": "https://streetfins.com/adani-scandal/",
+        "image_url": "https://streetfins.com/wp-content/uploads/2023/02/Gautam_Adani_Net_Worth.jpg",
+        "source_domain": "StreetFins",
+        "candidate_image_sha256": "45ece2e115086b7149944ba4b31ff4ca17dc6e7545d5d91fb69ccbc052d72ae0"
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.8806,
+        "similarity_percentage": "88.06%",
+        "source_title": "US judge dismisses criminal case against Gautam, Sagar ...",
+        "source_url": "https://www.siasat.com/us-judge-dismisses-criminal-case-against-gautam-sagar-adani-3522383/",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI5P9I2SV2DRMmQINOdvlCBQGfK6u9TGSM_-ZAngJ6TR8La6-HziNI&usqp=CAE&s",
+        "source_domain": "The Siasat Daily",
+        "candidate_image_sha256": "002cbc85764da270a8dee0a5b94906816ca27170d72536a2588965250dd0dc4e"
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.8653,
+        "similarity_percentage": "86.53%",
+        "source_title": "A US federal judge in Brooklyn has officially dismissed ...",
+        "source_url": "https://www.instagram.com/p/Db7_y99CZ8R/",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTRZBE_2cu5A1eeGh2DTfDHim7mpJdpqIkyg-OqM6adaYQD1VIw57w&usqp=CAE&s",
+        "source_domain": "Instagram \u00b7 factlinenp",
+        "candidate_image_sha256": "119d6f807725e4d08e14b5efaee16df624f6a82f3e07cc1df3159890ba29e4cf"
+      },
+      {
+        "rank": 6,
+        "similarity_score": 0.8632,
+        "similarity_percentage": "86.32%",
+        "source_title": "Gautam Adani - Wikipedia",
+        "source_url": "https://en.wikipedia.org/wiki/Gautam_Adani",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gautam_Adani.jpg/250px-Gautam_Adani.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "source_domain": "Wikipedia",
+        "candidate_image_sha256": "79fc9b75af12fe58a0fd4b3dda5b1877e31766546277ef1b3d31dd85060bf1fc"
+      },
+      {
+        "rank": 7,
+        "similarity_score": 0.8522,
+        "similarity_percentage": "85.22%",
+        "source_title": "Warm birthday wishes to you, dear Gautam Bhai. ...",
+        "source_url": "https://www.facebook.com/NaveenJindalMP/posts/warm-birthday-wishes-to-you-dear-gautam-bhaiwishing-you-great-health-happinessga/1548612979961717/",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRnA3D1QQyCvssFoaHftaY4tC5Rtmks_zkxwOyi2T6akuha_McWv2n&usqp=CAE&s",
+        "source_domain": "Facebook \u00b7 Naveen Jindal",
+        "candidate_image_sha256": "671626b55449efc726776223e3c197e46549d090dde46b83fe3afc4dc9962704"
+      },
+      {
+        "rank": 8,
+        "similarity_score": 0.8487,
+        "similarity_percentage": "84.87%",
+        "source_title": "Brokerage sees 24% upside in this Adani Group stock ...",
+        "source_url": "https://www.msn.com/en-in/money/markets/stock-to-buy-brokerage-sees-24-upside-in-this-adani-group-stock-amid-middle-east-disruptions/ar-AA1YpCE1?ocid\\u003dfinance-verthp-feeds",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl1viYA4Zp2NYQK37TAobvncLgfdZMPumjjm6j3NaRe0VeV2ob5TMs&usqp=CAE&s",
+        "source_domain": "MSN",
+        "candidate_image_sha256": "9ab2ee565512599577120cdbcb90243ade1de01ebcc4f36362b1fab16398a626"
+      },
+      {
+        "rank": 9,
+        "similarity_score": 0.8463,
+        "similarity_percentage": "84.63%",
+        "source_title": "Warm birthday wishes to you, dear Gautam Bhai. Your ...",
+        "source_url": "https://www.facebook.com/NaveenJindalMP/posts/warm-birthday-wishes-to-you-dear-gautam-bhaiyour-visionary-leadership-and-extrao/1258589835630701/",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwQTZ39kCcidJqopuaVywBU6pw4ANtxMsQ8Y7KYwvdX10p2hpRNxy&usqp=CAE&s",
+        "source_domain": "Facebook \u00b7 Naveen Jindal",
+        "candidate_image_sha256": "26ed7ac4f606a21d8bf78478bd36c61dc2755daa43841f4cdccf2a1cef6770a3"
+      },
+      {
+        "rank": 10,
+        "similarity_score": 0.8073,
+        "similarity_percentage": "80.73%",
+        "source_title": "Gautam Adani",
+        "source_url": "https://en.wikipedia.org/wiki/Gautam_Adani",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnivmtSwCGxB7eJV2fFo0WCXWvJ_yuh-isaCun9NVAdRe6-WS2hI8&usqp=CAE&s",
+        "source_domain": "Wikipedia",
+        "candidate_image_sha256": "014c1bafc10712352ca32de53cbc4e151db8981b6b972fb2483df60fdf2b53ab"
+      },
+      {
+        "rank": 11,
+        "similarity_score": 0.7982,
+        "similarity_percentage": "79.82%",
+        "source_title": "Gautam Adani | Biography, Business, Family, Indictment ...",
+        "source_url": "https://www.britannica.com/biography/Gautam-Adani",
+        "image_url": "https://cdn.britannica.com/82/245982-050-982BF8CD/Gautam-Adani-Adani-Group-2012.jpg",
+        "source_domain": "Britannica",
+        "candidate_image_sha256": "9e8c31450b7f2c6824fbbef7a46359831b120a3323ac6238151edc6efbb43dd7"
+      },
+      {
+        "rank": 12,
+        "similarity_score": 0.7972,
+        "similarity_percentage": "79.72%",
+        "source_title": "The 10 Richest People in the World - WSJ",
+        "source_url": "https://www.wsj.com/story/the-10-richest-people-in-the-world-141c47c5",
+        "image_url": "https://images.wsj.net/im-517778/portrait?pixel_ratio=2",
+        "source_domain": "WSJ",
+        "candidate_image_sha256": "c51679e92611ad698472066c10feb13116fa3b2ac60456bc68add35477d4474d"
+      },
+      {
+        "rank": 13,
+        "similarity_score": 0.7945,
+        "similarity_percentage": "79.45%",
+        "source_title": "Gautam Adani Business List: What Does The Richest Asian In ...",
+        "source_url": "https://www.ibtimes.com/gautam-adani-business-list-what-does-richest-asian-world-own-3631632",
+        "image_url": "https://d.ibtimes.com/en/full/3587984/gettyimages-89126060.jpg?w=1600&h=900&q=88&f=a52185f822cefd9ca0e015a578b15c78",
+        "source_domain": "International Business Times",
+        "candidate_image_sha256": "c891aa2591428f1e162683a418de492bd37077c5e7a73644d45fc078ece8da9c"
+      },
+      {
+        "rank": 14,
+        "similarity_score": 0.7837,
+        "similarity_percentage": "78.37%",
+        "source_title": "Gautam Adani's Birthday",
+        "source_url": "https://cl.pinterest.com/pin/711146597457612345/",
+        "image_url": "https://i.pinimg.com/736x/f0/0c/f6/f00cf645d28fce08a4e9fe9d92db2550.jpg",
+        "source_domain": "Pinterest",
+        "candidate_image_sha256": "6657e7b2481cef9aefe1eaf3ec8c779122bc151bbcfe0e47cd52a2dad328f520"
+      },
+      {
+        "rank": 15,
+        "similarity_score": 0.7742,
+        "similarity_percentage": "77.42%",
+        "source_title": "Gautam Adani eclipses Mukesh Ambani to be Asia's richest ...",
+        "source_url": "https://www.aljazeera.com/economy/2022/2/8/gautam-adani-skates-past-mukesh-ambani-to-be-asias-richest",
+        "image_url": "https://www.aljazeera.com/wp-content/uploads/2022/02/383703568.jpg?resize=1800,1571",
+        "source_domain": "Al Jazeera",
+        "candidate_image_sha256": "b24406430218aaba545241ffae66bea2a9db88aa2144077fdf7d779a95ab2115"
+      },
+      {
+        "rank": 16,
+        "similarity_score": 0.7656,
+        "similarity_percentage": "76.56%",
+        "source_title": "Gautam Adani | Founder & Chairman | Adani Group",
+        "source_url": "https://www.adani.com/about-us/leadership/gautam-adani",
+        "image_url": "https://www.adani.com/-/media/project/adaniv1/about-us/leadership-new/leadership-images/gautam-adani-v2.jpg",
+        "source_domain": "Adani Group",
+        "candidate_image_sha256": "0100c36b2b3aedb6e01d3c4812dd92e71a5930ff7f700bed94b705901045d43c"
+      },
+      {
+        "rank": 17,
+        "similarity_score": 0.7473,
+        "similarity_percentage": "74.73%",
+        "source_title": "Gautam Adani | Biography, Business, Family, Indictment, & ...",
+        "source_url": "https://www.britannica.com/biography/Gautam-Adani",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuUDQ1a-9sB_rQ7SYGFgSYNYK8E-oEnm8ZkvtSMlT97zy50i-UWdBR&usqp=CAE&s",
+        "source_domain": "Britannica",
+        "candidate_image_sha256": "4ba0e24896b6f3dbe94a2d02ca5f41b9b624c92f306490aa456a4911222d4d99"
+      },
+      {
+        "rank": 18,
+        "similarity_score": 0.7465,
+        "similarity_percentage": "74.65%",
+        "source_title": "Gautam Adani: World's biggest wealth surge heralds rise of ...",
+        "source_url": "https://timesofindia.indiatimes.com/business/india-business/worlds-biggest-wealth-surge-heralds-rise-of-indias-next-ambani/articleshow/81683315.cms",
+        "image_url": "https://static.toiimg.com/thumb/msid-81686644,width-1280,height-720,resizemode-4/81686644.jpg",
+        "source_domain": "The Times of India",
+        "candidate_image_sha256": "b5e846d9194b4632da92a8268326c2f6a8fc658e240aaa0da4bd5d1cfbd5b803"
+      },
+      {
+        "rank": 19,
+        "similarity_score": 0.7396,
+        "similarity_percentage": "73.96%",
+        "source_title": "Who Is Billionaire Gautam Adani? See His Net Worth and ...",
+        "source_url": "https://www.entrepreneur.com/business-news/who-is-billionaire-gautam-adani-see-his-net-worth-and-more/434379",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMLElfim1m7m-u1AVZRuOhjEPYOiVmdLv_MvpmZznyFVNtkCzdCJhE&usqp=CAE&s",
+        "source_domain": "entrepreneur.com",
+        "candidate_image_sha256": "7b1c69fddd32546f90bb9a61a63afb8f63acd0cb5d080d949caf2ff7b7605b07"
+      },
+      {
+        "rank": 20,
+        "similarity_score": 0.6988,
+        "similarity_percentage": "69.88%",
+        "source_title": "Gautam Adani | Founder & Chairman",
+        "source_url": "https://www.adani.com/about-us/leadership/gautam-adani",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZhlhVuKyrrhOVFO-HKUIyvR5_rj6f6khy9IOysfRWaCGWXCL-mjsb&usqp=CAE&s",
+        "source_domain": "Adani",
+        "candidate_image_sha256": "b84663432b1b178eb0c5104442c1ffc4efb75f51c5870331f3df706010cee23a"
+      }
+    ]
+  }
+}

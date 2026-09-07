@@ -1,0 +1,225 @@
+{
+  "evidence_hash": "fe61ac1ed62c119ed8f150d47f3d06e0d8d3b10b66c1a24db404ae3e9660e3b8",
+  "payload": {
+    "evidence_version": "1.0",
+    "timestamp_utc": "2026-09-02T07:45:43.643478+00:00",
+    "timestamp_unix": 1788335143,
+    "search_engine": "google_lens",
+    "verification_threshold": 0.5,
+    "input_source": "c:\\Users\\chand\\Downloads\\FaceID\\Resources\\Screenshot 2026-09-02 101153.png",
+    "input_file_sha256": "14e787dfd6389aacf98997d761adb05916af3ca28eb0b17c46195dbbeb95084d",
+    "face_detection": {
+      "det_score": 0.8748354911804199,
+      "embedding_sha256": "e071f992d7e224f0b45d5e6ed32a216ec66164c4cad2bcf248af36540fa5395a",
+      "bbox": [
+        207,
+        72,
+        373,
+        286
+      ]
+    },
+    "verified_matches_count": 20,
+    "matches": [
+      {
+        "rank": 1,
+        "similarity_score": 0.9741,
+        "similarity_percentage": "97.41%",
+        "source_title": "8 facts about 88-year-old restaurant where Mukesh Ambani ...",
+        "source_url": "https://recipes.timesofindia.com/web-stories/8-facts-about-88-year-old-restaurant-where-mukesh-ambani-loves-to-eat-every-week/photostory/108304473.cms",
+        "image_url": "https://static.toiimg.com/thumb/msid-108304480,imgsize-55244,width-900,height-1200,resizemode-6/108304480.jpg",
+        "source_domain": "Times Food",
+        "candidate_image_sha256": "6553ad16e5177df97660d3f39b6eab7a3b3b6e4fedfc4311334505c56674f79b"
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.9733,
+        "similarity_percentage": "97.33%",
+        "source_title": "5 ridiculously expensive assets Mukesh Ambani owns that ...",
+        "source_url": "https://www.gqindia.com/content/5-ridiculously-expensive-assets-mukesh-ambani-owns-that-cost-more-than-rs-500-crore-his-27-storey-home-antilia-worth-rs-15000-crore-a-luxurious-private-jet-worth-rs-600-crore-and-more",
+        "image_url": "https://assets.gqindia.com/photos/6656f57926dd775b0ce98e24/1:1/w_1080,h_1080,c_limit/5-ridiculously-expensive-assets-Mukesh-Ambani-owns-that-cost-more-than-Rs-500-crore-27-storey-Antilia-worth-Rs-15000-crore-a-luxurious-private-jet-worth-Rs-600-crore.jpg",
+        "source_domain": "GQ India",
+        "candidate_image_sha256": "6831a0e1ceb40193caf59208b9e0f0bec24807443c424a9245dbb9dc6ee8dcb0"
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.9651,
+        "similarity_percentage": "96.51%",
+        "source_title": "Career lessons to borrow from the Ambanis",
+        "source_url": "https://timesofindia.indiatimes.com/life-style/relationships/work/career-lessons-to-borrow-from-the-ambanis/photostory/111001295.cms",
+        "image_url": "https://static.toiimg.com/thumb/imgsize-73954,msid-111001323/111001323.jpg?width=500&resizemode=4",
+        "source_domain": "The Times of India",
+        "candidate_image_sha256": "be992170902db1e91f4f7683a7498e0e72e6b47e973795eeb98364d1870a4b4e"
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.9625,
+        "similarity_percentage": "96.25%",
+        "source_title": "Mukesh Ambani: Educational Qualification of India's Business ...",
+        "source_url": "https://timesofindia.indiatimes.com/education/web-stories/mukesh-ambani-educational-qualification-of-indias-business-magnate/photostory/108362677.cms",
+        "image_url": "https://static.toiimg.com/thumb/msid-108362732,imgsize-42190,width-900,height-1200,resizemode-6/108362732.jpg",
+        "source_domain": "The Times of India - Indiatimes",
+        "candidate_image_sha256": "3687e6cd90e410fadac47ec4803f21bac2d274dce39dfb9bae04624072d92dbd"
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.8727,
+        "similarity_percentage": "87.27%",
+        "source_title": "After Reliance's bid, Mumbai Indians welcome The ...",
+        "source_url": "https://m.economictimes.com/news/sports/after-reliances-bid-mumbai-indians-welcome-the-hundreds-london-based-franchise-oval-invincibles/articleshow/118123530.cms",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29WJS5OMGikLMoLBkul39OTLU5o61OJZOZFqFqq20jByag1c3JoW4&usqp=CAE&s",
+        "source_domain": "The Economic Times",
+        "candidate_image_sha256": "675ea92d395c405070c4c689b14bd4ebf31a70a7339f98aadcf9b2593d23aa4c"
+      },
+      {
+        "rank": 6,
+        "similarity_score": 0.8714,
+        "similarity_percentage": "87.14%",
+        "source_title": "Only An 'Arabpati' Can Afford Mukesh Ambani's Latest Ride",
+        "source_url": "https://www.mensxp.com/ampstories/buzz-on-web/latest/135108-mukesh-ambani-aston-martin-latest-car-cost-collection-arabpati.html",
+        "image_url": "https://mxp-media.ilnmedia.com/media/content/2023/May/muksjhsd_6461f9f7f07b1.png",
+        "source_domain": "MensXP",
+        "candidate_image_sha256": "1e9d1d60741a8f767e2fab14b37db814597ee503f870f9b74b7a514057caa769"
+      },
+      {
+        "rank": 7,
+        "similarity_score": 0.8214,
+        "similarity_percentage": "82.14%",
+        "source_title": "Mukesh Ambani's 2026 Gambles: AI, Telecom, Retail, Energy ...",
+        "source_url": "https://www.linkedin.com/posts/anupam-jha-07736923_mukeshambani-reliance-jio-activity-7446416084733399040-Q50u",
+        "image_url": "https://media.licdn.com/dms/image/v2/D5622AQHEkdKPF5POqg/feedshare-image-high-res/B56Z1b7.IQKkAU-/0/1775363941109?e=2147483647&v=beta&t=3rn_IAe7D63LvW5WLCQJxPvfYdEofQBdAOFmvdiBUfg",
+        "source_domain": "LinkedIn",
+        "candidate_image_sha256": "6c6f35c05129295ca73601072bc631d3ebd340c6bf59231aa71e42a03c243cc3"
+      },
+      {
+        "rank": 8,
+        "similarity_score": 0.8078,
+        "similarity_percentage": "80.78%",
+        "source_title": "India's 100 Richest Are Now Worth More Than $1 Trillion",
+        "source_url": "https://www.forbes.com/sites/naazneenkarmali/2024/10/09/indias-100-richest-2024-fortunes-of-indian-tycoons-jump-40-blowing-past-1-trillion/",
+        "image_url": "https://imageio.forbes.com/specials-images/imageserve/6706e4106cc5c6bd249183ce/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "source_domain": "Forbes",
+        "candidate_image_sha256": "a486a9fb1cc309746c423a325685d9dedbd588030eb18b816e2ba62e27b3fd4a"
+      },
+      {
+        "rank": 9,
+        "similarity_score": 0.7987,
+        "similarity_percentage": "79.87%",
+        "source_title": "Mukesh Ambani, chairman and managing director ...",
+        "source_url": "https://www.facebook.com/Nairametrics/posts/mukesh-ambani-chairman-and-managing-director-of-reliance-industries-has-a-net-wo/1497332722438683/",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR60QKm6pdiBDA09CnlNuW4YpiSceq6_TYdasho3dSdL4pR_PFPK7SK&usqp=CAE&s",
+        "source_domain": "Facebook \u00b7 Nairametrics",
+        "candidate_image_sha256": "88ecdf64fa4a5d38296df9356b317aee402aa2298a5b88ac9c89b9404bbe9dcf"
+      },
+      {
+        "rank": 10,
+        "similarity_score": 0.7615,
+        "similarity_percentage": "76.15%",
+        "source_title": "Mukesh Ambani",
+        "source_url": "https://www.forbes.com/profile/mukesh-ambani/",
+        "image_url": "https://imageio.forbes.com/specials-images/imageserve/5c7d7829a7ea434b351ba0b6/0x0.jpg?format=jpg&crop=1837,1839,x206,y250,safe&height=416&width=416&fit=bounds",
+        "source_domain": "Forbes",
+        "candidate_image_sha256": "1b6b1b27e0d1d1a74ff14e3bc49a6c3ca158c323a1ea8216fc1d1fe1f7f7fc75"
+      },
+      {
+        "rank": 11,
+        "similarity_score": 0.7537,
+        "similarity_percentage": "75.37%",
+        "source_title": "Mukesh Ambani: India's richest man strengthens his lead with ...",
+        "source_url": "https://www.forbesindia.com/article/lists/india-rich-list-2021/mukesh-ambani-indias-richest-man-strengthens-his-lead-with-927-billion-net-worth/71401/1",
+        "image_url": "https://images.forbesindia.com/blog/wp-content/uploads//media/images/2021/Nov/img_171083_mukeshambani.jpg",
+        "source_domain": "Forbes India",
+        "candidate_image_sha256": "e3c6506ceeb2b8deea0133c2960a90bd1184dbe69cebc4322c816244c4dbac0c"
+      },
+      {
+        "rank": 12,
+        "similarity_score": 0.7502,
+        "similarity_percentage": "75.02%",
+        "source_title": "Top 10 inspiring quotes by Mukesh Ambani on success",
+        "source_url": "https://www.dnaindia.com/web-stories/business/top-10-inspiring-quotes-by-mukesh-ambani-reliance-1693645083103",
+        "image_url": "https://images1.dnaindia.com/images/DNA-EN/900x1600/2023/9/2/1693645296616_img171083mukeshambani.jpg",
+        "source_domain": "DNA India",
+        "candidate_image_sha256": "d60409752cbc32d952f5f69dcc0298de448eaa1911c2ce8ead541c7812390c5e"
+      },
+      {
+        "rank": 13,
+        "similarity_score": 0.7354,
+        "similarity_percentage": "73.54%",
+        "source_title": "Mukesh D Ambani - NCAER | Quality . Relevance . Impact",
+        "source_url": "https://ncaer.org/people/mukesh-d-ambani/",
+        "image_url": "https://ncaer.org/wp-content/uploads/2022/08/Frame-141.png",
+        "source_domain": "NCAER",
+        "candidate_image_sha256": "cfab1ac00680c694493bcd662cf4f0c8de0951c2f325f5e880ef3596f9608379"
+      },
+      {
+        "rank": 14,
+        "similarity_score": 0.7175,
+        "similarity_percentage": "71.75%",
+        "source_title": "Mukesh Ambani - Wikipedia",
+        "source_url": "https://en.wikipedia.org/wiki/Mukesh_Ambani",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Mukesh_Ambani.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+        "source_domain": "Wikipedia",
+        "candidate_image_sha256": "d0d3e09e969d3566305c63193c19e6455c08f6f5202ac17b446ff872e267f307"
+      },
+      {
+        "rank": 15,
+        "similarity_score": 0.6963,
+        "similarity_percentage": "69.63%",
+        "source_title": "Extreme Security In India's Billionaire Homes \ud83d\ude31\ud83c\udfe0 #luxury ...",
+        "source_url": "https://www.youtube.com/shorts/mi1fWMSCZPs",
+        "image_url": "https://i.ytimg.com/vi/mi1fWMSCZPs/oardefault.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLA3Hg7nP84946_aIFtKE3PswWt-HQ&usqp=CCk",
+        "source_domain": "YouTube",
+        "candidate_image_sha256": "4f20736f3fe3bf289798718323ecef4f828a654b2a257b508c976af5ad447a3a"
+      },
+      {
+        "rank": 16,
+        "similarity_score": 0.675,
+        "similarity_percentage": "67.5%",
+        "source_title": "Mukesh Ambani",
+        "source_url": "https://en.wikipedia.org/wiki/Mukesh_Ambani",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfFtyPyWgIbRe6uyKzxXysRLX1UNZ5mUxHIaXwlkKXYg4Jk_FSGbd&usqp=CAE&s",
+        "source_domain": "Wikipedia",
+        "candidate_image_sha256": "70e31e19d8d7ae30be0af9a367364ee9ea45d82281072ef53ee4ef6ef62dc090"
+      },
+      {
+        "rank": 17,
+        "similarity_score": 0.6636,
+        "similarity_percentage": "66.36%",
+        "source_title": "Mukesh Ambani",
+        "source_url": "https://baike.baidu.com/en/item/Mukesh%20Ambani/1497822",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7-ckxXtaesiC8ib-XKGxGiL99WJPV20T590CtajELUaG4G9K7wtK&usqp=CAE&s",
+        "source_domain": "\u767e\u5ea6\u767e\u79d1",
+        "candidate_image_sha256": "ba961dcee33c012d54bf075caa4a99db8ca69a5715121ece6eaf828fffd2208f"
+      },
+      {
+        "rank": 18,
+        "similarity_score": 0.6395,
+        "similarity_percentage": "63.95%",
+        "source_title": "Mukesh Ambani",
+        "source_url": "https://www.forbes.com/profile/mukesh-ambani/",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAO6b9appZTzmELb85KWSPCp4CqBREL6S4dqyIYdfrTb2tleh_unV9&usqp=CAE&s",
+        "source_domain": "Forbes",
+        "candidate_image_sha256": "8197274d2726c420ab7be3f6a1c97463d2c56d54a67e9d9a6b0449ed919143da"
+      },
+      {
+        "rank": 19,
+        "similarity_score": 0.6326,
+        "similarity_percentage": "63.26%",
+        "source_title": "Mukesh Ambani | Biography, Companies, & Family",
+        "source_url": "https://www.britannica.com/money/Mukesh-Ambani",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwIvZjTsj-GzGVBlKA4wkhfbCd-6raRW-e6h5xu3aRZjzJi69eHnPd&usqp=CAE&s",
+        "source_domain": "Britannica",
+        "candidate_image_sha256": "66ec0c8ff54ab39b9fa40c32bf959c32b9e92807d3bca81a6c143c4bad318ca7"
+      },
+      {
+        "rank": 20,
+        "similarity_score": 0.629,
+        "similarity_percentage": "62.9%",
+        "source_title": "A Look into Mukesh Ambani's Massive Fortune",
+        "source_url": "https://medium.com/@alihassan00110013/a-look-into-mukesh-ambanis-massive-fortune-understanding-india-s-richest-man-s-financial-kingdom-5ed0e8ffb5e8",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Txd9CsmoXBegE-0rzSMGl2mcgwfUOFHtxU1BXMLKkhBYW_tI_P1l&usqp=CAE&s",
+        "source_domain": "Medium \u00b7 Finance Triple $",
+        "candidate_image_sha256": "50f1e413d1fc4913d978081f90dee3ad18e1d57142f08997cf09102716a51061"
+      }
+    ]
+  }
+}

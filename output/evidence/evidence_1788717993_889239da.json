@@ -1,0 +1,177 @@
+{
+  "evidence_hash": "889239da2c68defc76df5ad7d878b9ea20e4eda23ea14cf9b94a487b9b83a325",
+  "payload": {
+    "evidence_version": "1.1",
+    "timestamp_utc": "2026-09-06T18:06:33.692902+00:00",
+    "timestamp_unix": 1788717993,
+    "search_engine": "google_lens",
+    "verification_threshold": 0.5,
+    "input_source": "image.png",
+    "input_file_sha256": "65f1948a02ccc48dca57ecfa247d36003f6a287de021a0a4f7af89e0820bbe36",
+    "face_detection": {
+      "det_score": 0.8880646824836731,
+      "embedding_sha256": "1c2b62fb72e136850f0777cb3bfb1f2fa6c2d6354de8e165f8d3d2e11d9c7e35",
+      "bbox": [
+        247,
+        78,
+        441,
+        330
+      ]
+    },
+    "verified_matches_count": 12,
+    "social_media_summary": {
+      "total_social_matches": 2,
+      "total_general_web_matches": 10,
+      "platforms_detected": {
+        "YouTube": 1,
+        "X (Twitter)": 1
+      }
+    },
+    "matches": [
+      {
+        "rank": 1,
+        "similarity_score": 0.9682,
+        "similarity_percentage": "96.8%",
+        "source_title": "Twitter Unlocks Accounts of Congress Party, Rahul Gandhi ...",
+        "source_url": "https://www.newsclick.in/twitter-unlocks-accounts-congress-party,-rahul-gandhi",
+        "image_url": "https://www.newsclick.in/sites/default/files/2021-08/rahu7.jpg",
+        "source_domain": "NewsClick",
+        "platform": "NewsClick",
+        "is_social_media": false,
+        "candidate_image_sha256": "fec5b79caf92ef9953a64d05bd94a30bec478013194c91a5107bccd9536a5594"
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.9599,
+        "similarity_percentage": "96.0%",
+        "source_title": "DO Politics - YouTube",
+        "source_url": "https://www.youtube.com/c/DOPolitics",
+        "image_url": "https://i.ytimg.com/vi/tVs7pLv1fEg/oar2.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLA97lOO7q9Dq7RRoJMwwzptnPg03g&usqp=CCk",
+        "source_domain": "YouTube",
+        "platform": "YouTube",
+        "is_social_media": true,
+        "candidate_image_sha256": "2a36f35cb6ba2015d362eaddb7e8fe49b8d3aa8f5b59e1caf9ed8276e35b921f"
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.9148,
+        "similarity_percentage": "91.5%",
+        "source_title": "Rahul Gandhi's 53rd Birthday | Web Stories - PTC News",
+        "source_url": "https://www.ptcnews.tv/visualstories/politics/rahul-gandhiamp039s-53rd-birthday-242-2023-06-19",
+        "image_url": "https://ptcnews-wp.s3.ap-south-1.amazonaws.com/wp-content/uploads/2023/06/Layer-2-(1)_22ea3d9d72d119004fd8315217dd62c1_720X1280.webp",
+        "source_domain": "PTC News",
+        "platform": "PTC News",
+        "is_social_media": false,
+        "candidate_image_sha256": "eff01f8f6c09eef4207a1f987da94735a82cdd86d3443d942088fa54e2185bf8"
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.7627,
+        "similarity_percentage": "76.3%",
+        "source_title": "Pegasus Project: Rahul Gandhi was potential spyware target",
+        "source_url": "https://www.nationalheraldindia.com/national/pegasus-project-rahul-gandhi-was-potential-spyware-target",
+        "image_url": "https://images.assettype.com/nationalherald/2019-11/1cee9b9d-a265-4f94-b841-1db3153cb0c5/Rahul.jpg",
+        "source_domain": "National Herald",
+        "platform": "National Herald",
+        "is_social_media": false,
+        "candidate_image_sha256": "37c4aaf30a7a7a05feee068d7ecd8d24a3fe33d65bb1b6ca52ae7be48243277d"
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.718,
+        "similarity_percentage": "71.8%",
+        "source_title": "Only a Gandhi: Why I think Rahul Gandhi, and only a member ...",
+        "source_url": "https://www.dailyo.in/politics/rahul-gandhi-narendra-modi-congress-washout-lok-sabha-2019-indira-gandhi-31149",
+        "image_url": "https://akm-img-a-in.tosshub.com/sites/dailyo/story/embed/201906/congress-690_061719053300.jpg",
+        "source_domain": "Dailyo",
+        "platform": "Dailyo",
+        "is_social_media": false,
+        "candidate_image_sha256": "a3d42e58c61703ead18c9c219b25909d4521499289faf20b761392e7f2556022"
+      },
+      {
+        "rank": 6,
+        "similarity_score": 0.706,
+        "similarity_percentage": "70.6%",
+        "source_title": "Rahul Gandhi: Why it's so hard for Congress to replace Rahul ...",
+        "source_url": "https://timesofindia.indiatimes.com/india/why-its-so-hard-for-congress-to-replace-rahul/articleshow/70237014.cms",
+        "image_url": "https://static.toiimg.com/thumb/msid-70245195,width-1280,height-720,imgsize-54507,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "source_domain": "The Times of India",
+        "platform": "The Times of India",
+        "is_social_media": false,
+        "candidate_image_sha256": "e9998f4c48b2e8f4533512c1d5b2127d166c0185a1706db660d60fe929d3b763"
+      },
+      {
+        "rank": 7,
+        "similarity_score": 0.6999,
+        "similarity_percentage": "70.0%",
+        "source_title": "India's Rahul Gandhi loses parliamentary seat in family ...",
+        "source_url": "https://www.reuters.com/article/world/indias-rahul-gandhi-loses-parliamentary-seat-in-family-bastion-idUSKCN1ST1FP/",
+        "image_url": "https://www.reuters.com/resizer/v2/https://archive-images.prod.global.a201836.reutersmedia.net/2019/05/23/LYNXNPEF4M0YZ.JPG?auth=90648b81cc1f661403a72bc7aa29b76c38443937b169781a501b38bb90dac1ff&height=1500&width=1200&quality=80&smart=true",
+        "source_domain": "Reuters",
+        "platform": "Reuters",
+        "is_social_media": false,
+        "candidate_image_sha256": "30f9cfb2e51ee7a3f206e25a4bb2131dd3acf502e71bd2c37cb06221ee0d2045"
+      },
+      {
+        "rank": 8,
+        "similarity_score": 0.6886,
+        "similarity_percentage": "68.9%",
+        "source_title": "Rahul Gandhi, India's main opposition leader, reinstated to ...",
+        "source_url": "https://www.aljazeera.com/news/2023/8/7/rahul-gandhi-indias-main-opposition-leader-reinstated-to-parliament",
+        "image_url": "https://www.aljazeera.com/wp-content/uploads/2023/08/2023-08-04T123702Z_408029614_RC2ZG2AMVNW6_RTRMADP_3_INDIA-POLITICS-GANDHI-1691386958.jpg?resize=770,513&quality=80",
+        "source_domain": "Al Jazeera",
+        "platform": "Al Jazeera",
+        "is_social_media": false,
+        "candidate_image_sha256": "6996c47391879a7744594c009c5faa244eadca5911ab6ef5bf37ed5f62bc85a0"
+      },
+      {
+        "rank": 9,
+        "similarity_score": 0.6814,
+        "similarity_percentage": "68.1%",
+        "source_title": "India's Rahul Gandhi hints at PM role if party wins election ...",
+        "source_url": "https://www.reuters.com/article/world/indias-rahul-gandhi-hints-at-pm-role-if-party-wins-election-idUSBREA0D0HP/",
+        "image_url": "https://www.reuters.com/resizer/v2/https://archive-images.prod.global.a201836.reutersmedia.net/2014/01/14/CBREA0D0S9100.JPG?auth=db470a504ec446f71d023ccfd157cf26581085df4a7037045b435af8731e01f6&height=1920&width=1920&quality=80&smart=true",
+        "source_domain": "Reuters",
+        "platform": "Reuters",
+        "is_social_media": false,
+        "candidate_image_sha256": "0fca12521d71498b8af79bb864da671cc753c6686e3ba8d2b4e39806032183e4"
+      },
+      {
+        "rank": 10,
+        "similarity_score": 0.6695,
+        "similarity_percentage": "67.0%",
+        "source_title": "Opinion | Gujarat elections: Rahul Gandhi shows he's no ...",
+        "source_url": "https://www.washingtonpost.com/news/global-opinions/wp/2017/12/20/gujarat-elections-show-that-rahul-gandhi-is-no-longer-the-joke-of-india/",
+        "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/news/global-opinions/wp-content/uploads/sites/59/2017/12/2017-12-11T103829Z_1146893698_RC1B589D5C70_RTRMADP_3_INDIA-POLITICS-GANDHI.jpg&w=1800&h=1800",
+        "source_domain": "The Washington Post",
+        "platform": "X (Twitter)",
+        "is_social_media": true,
+        "candidate_image_sha256": "8bccf406ad328f1001244d2adad6b48b6cb52362647f69b7e9650ee3b8a13efe"
+      },
+      {
+        "rank": 11,
+        "similarity_score": 0.6643,
+        "similarity_percentage": "66.4%",
+        "source_title": "bjp: Easier for many leaders to make peace with BJP, 'fold ...",
+        "source_url": "https://m.economictimes.com/news/india/easier-for-many-leaders-to-make-peace-with-bjp-fold-hands-before-it-not-my-character-rahul-gandhi/articleshow/94104254.cms",
+        "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-59094,resizemode-75,msid-94104254/news/india/easier-for-many-leaders-to-make-peace-with-bjp-fold-hands-before-it-not-my-character-rahul-gandhi.jpg",
+        "source_domain": "The Economic Times",
+        "platform": "The Economic Times",
+        "is_social_media": false,
+        "candidate_image_sha256": "ca9805519c73265dd43d9ccd77fd21eb722709a890d55824452e0d955a64c656"
+      },
+      {
+        "rank": 12,
+        "similarity_score": 0.6289,
+        "similarity_percentage": "62.9%",
+        "source_title": "Congress Vice President Rahul Gandhi Leaves For US; Will ...",
+        "source_url": "https://www.ndtv.com/india-news/congress-vice-president-rahul-gandhi-leaves-for-us-will-meet-political-leaders-indians-1748491",
+        "image_url": "https://i.ndtvimg.com/i/2017-07/rahul-gandhi_650x400_81499686323.jpg",
+        "source_domain": "NDTV",
+        "platform": "NDTV",
+        "is_social_media": false,
+        "candidate_image_sha256": "b0f50fa32b65d68759d972a0cff78c2a99456a91c079a386d9ed312fea85980b"
+      }
+    ]
+  }
+}

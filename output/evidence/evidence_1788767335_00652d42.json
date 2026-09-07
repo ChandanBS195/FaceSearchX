@@ -1,0 +1,126 @@
+{
+  "evidence_hash": "a53103073451b57e04dcdd192bc2456551c214902fd75c3ac185697ecc9eb82c",
+  "payload": {
+    "evidence_version": "1.1",
+    "timestamp_utc": "2026-09-07T07:50:03.706304+00:00",
+    "timestamp_unix": 1788767403,
+    "search_engine": "google_lens",
+    "verification_threshold": 0.5,
+    "input_source": "temp_uploads\\image.png",
+    "input_file_sha256": "63515ccca149934e9d037e89091809e31fb52a1bfa563782b5a4ff64898bfadf",
+    "face_detection": {
+      "det_score": 0.8334582448005676,
+      "embedding_sha256": "bb806ca2296bd39b470406c30e97d6e9e502c46e65159abcc85f308701931976",
+      "bbox": [
+        109,
+        66,
+        185,
+        177
+      ]
+    },
+    "verified_matches_count": 8,
+    "social_media_summary": {
+      "total_social_matches": 0,
+      "total_general_web_matches": 8,
+      "platforms_detected": {}
+    },
+    "matches": [
+      {
+        "rank": 1,
+        "similarity_score": 0.9689,
+        "similarity_percentage": "96.9%",
+        "source_title": "11 Contemporary Indian Artists Shaping the Modern Art Scene",
+        "source_url": "https://culturizm.com/contemporary-indian-artists/",
+        "image_url": "https://culturizm.com/wp-content/uploads/2024/01/Contemporary_Indian_Artists.png-1024x536.webp",
+        "source_domain": "Culturizm",
+        "platform": "Culturizm",
+        "is_social_media": false,
+        "candidate_image_sha256": "c82bb3ef470039e2aa673ea085caf9e12e8021818e30c9c49b9ddd1ce73a2ae6"
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.8967,
+        "similarity_percentage": "89.7%",
+        "source_title": "Getting to know renowned Indian artist Subodh Gupta",
+        "source_url": "https://gulfnews.com/the-kurator/life/getting-to-know-renowned-indian-artist-subodh-gupta-1.1708340693517",
+        "image_url": "https://media.assettype.com/gulfnews/import/2024/02/19/1_18dc104e8f2_large.jpg?w=1200&h=675&auto=format,compress&fit=max&enlarge=true",
+        "source_domain": "Gulf News",
+        "platform": "Gulf News",
+        "is_social_media": false,
+        "candidate_image_sha256": "40e3420c322f90b379f6cc25d438205fcca04adde153d246b4844b2f1fe5d54c"
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.8906,
+        "similarity_percentage": "89.1%",
+        "source_title": "Subodh Gupta \u2014 Masterworks Academy",
+        "source_url": "https://www.masterworks.com/academy/artists/subodh-gupta",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Subodh_Gupta,_2020.jpg/330px-Subodh_Gupta,_2020.jpg",
+        "source_domain": "Masterworks",
+        "platform": "Masterworks",
+        "is_social_media": false,
+        "candidate_image_sha256": "b5861936023ca4d4ec4bbcf6cabd14d0f9a66f65892b7b2597d617a4d5f69949"
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.87,
+        "similarity_percentage": "87.0%",
+        "source_title": "Subodh Gupta - Wikipedia",
+        "source_url": "https://en.wikipedia.org/wiki/Subodh_Gupta",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Subodh_Gupta,_2020.jpg/960px-Subodh_Gupta,_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+        "source_domain": "Wikipedia",
+        "platform": "Wikipedia",
+        "is_social_media": false,
+        "candidate_image_sha256": "ab40dbe8e39e404a821742c6c677df1a94c67cda920fbac1563e6e3858845545"
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.7382,
+        "similarity_percentage": "73.8%",
+        "source_title": "The kitchen as seen by Subodh Gupta",
+        "source_url": "https://only.tailormaag.com/en/magazine/the-kitchen-as-seen-by-subodh-gupta",
+        "image_url": "https://only.tailormaag.com/storage/covers/desktop/2164_the-kitchen-as-seen-by-subodh-gupta.jpg",
+        "source_domain": "Only Magazine",
+        "platform": "Only Magazine",
+        "is_social_media": false,
+        "candidate_image_sha256": "33cfa400f86ffd3af8c7c11cc205a5951b1a7d1ac75aca4736113f0e2231c628"
+      },
+      {
+        "rank": 6,
+        "similarity_score": 0.7081,
+        "similarity_percentage": "70.8%",
+        "source_title": "Artists are used to being alone; it's how we think, create ...",
+        "source_url": "https://indianexpress.com/article/lifestyle/art-and-culture/subodh-gupta-artist-fundraiser-covid19-7359653/",
+        "image_url": "https://images.indianexpress.com/2021/06/Subodh-Gupta1200_PRhandout.jpeg",
+        "source_domain": "The Indian Express",
+        "platform": "The Indian Express",
+        "is_social_media": false,
+        "candidate_image_sha256": "f24c4eab4e10a42b89b20b148ab7f2a14f46f9aaa586adaaa459976e3706cc2a"
+      },
+      {
+        "rank": 7,
+        "similarity_score": 0.7052,
+        "similarity_percentage": "70.5%",
+        "source_title": "An Exclusive With Globally Acclaimed Artist, Subodh Gupta ...",
+        "source_url": "https://www.designpataki.com/dp-cult/an-exclusive-with-globally-acclaimed-artist-subodh-gupta/",
+        "image_url": "https://www.designpataki.com/wp-content/uploads/2023/01/DP-Cult-Podcast-Subodh-Gupta-Feature-Image.jpg",
+        "source_domain": "Design Pataki",
+        "platform": "Design Pataki",
+        "is_social_media": false,
+        "candidate_image_sha256": "fec04f8f9e324b4a8624cf8565cf7a24b3b8f2dce590ccac6595dba2ce0eab64"
+      },
+      {
+        "rank": 8,
+        "similarity_score": 0.6749,
+        "similarity_percentage": "67.5%",
+        "source_title": "328 Subodh Gupta Photos & High Res Pictures - Getty Images",
+        "source_url": "https://www.gettyimages.dk/photos/subodh-gupta",
+        "image_url": "https://media.gettyimages.com/id/978815932/photo/paris-france-indian-contemporary-artist-subodh-gupta-gives-a-press-conference-at-the-monnaie.jpg?s=612x612&w=gi&k=20&c=jdxLEW8aVoLHuYp1lT7NT2rhacaBypTduUVWn_kV1hI=",
+        "source_domain": "Getty Images",
+        "platform": "Getty Images",
+        "is_social_media": false,
+        "candidate_image_sha256": "01454e9fe4ed9bbaa73f780b07b764dc7484b3ed47c1287363ef5027b1df4903"
+      }
+    ]
+  }
+}

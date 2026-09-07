@@ -1,0 +1,249 @@
+{
+  "evidence_hash": "25ac7ecc9b6bedef29716c9176a1a9836eb0e03234e6ce67abd4738dd33bea2c",
+  "payload": {
+    "evidence_version": "1.1",
+    "timestamp_utc": "2026-09-07T05:56:40.960736+00:00",
+    "timestamp_unix": 1788760600,
+    "search_engine": "google_lens",
+    "verification_threshold": 0.5,
+    "input_source": "temp_uploads\\Screenshot 2026-09-06 235645.png",
+    "input_file_sha256": "eca238158b9f4a74b77818b779cf5fd038410b5ba554af383fda4c7635325b77",
+    "face_detection": {
+      "det_score": 0.8552209138870239,
+      "embedding_sha256": "abe267fb42ffafd3f4a254f178cf335f4e6c793a3b85c043519a74e43fa489d6",
+      "bbox": [
+        190,
+        125,
+        516,
+        533
+      ]
+    },
+    "verified_matches_count": 18,
+    "social_media_summary": {
+      "total_social_matches": 4,
+      "total_general_web_matches": 14,
+      "platforms_detected": {
+        "Reddit": 3,
+        "Pinterest": 1
+      }
+    },
+    "matches": [
+      {
+        "rank": 1,
+        "similarity_score": 0.9871,
+        "similarity_percentage": "98.7%",
+        "source_title": "Leonardo DiCaprio | Movies, One Battle After Another, Age ...",
+        "source_url": "https://www.britannica.com/biography/Leonardo-DiCaprio",
+        "image_url": "https://cdn.britannica.com/65/227665-050-D74A477E/American-actor-Leonardo-DiCaprio-2016.jpg?w=400&h=300&c=crop",
+        "source_domain": "Britannica",
+        "platform": "Britannica",
+        "is_social_media": false,
+        "candidate_image_sha256": "6cc81daa7253672a045c035f5a1f56879278567d1343d49a5bd1c20136c70078"
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.8854,
+        "similarity_percentage": "88.5%",
+        "source_title": "How Leonardo DiCaprio became one of the world's top ...",
+        "source_url": "https://www.theguardian.com/environment/2016/feb/29/how-leonardo-dicaprio-oscar-climate-change-campaigner",
+        "image_url": "https://i.guim.co.uk/img/media/bff11027fa3fd01e508413affb8d5e9cc06e4fd0/868_132_2316_1390/master/2316.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=6551e3d78f619a89506c29c1d790b278",
+        "source_domain": "The Guardian",
+        "platform": "The Guardian",
+        "is_social_media": false,
+        "candidate_image_sha256": "bdc213e366e76e7382a95edee7cb3b0f90d91f0012177d34c8fb478392ecc847"
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.8712,
+        "similarity_percentage": "87.1%",
+        "source_title": "Leonardo DiCaprio's three upcoming films. No biggie. : r/movies",
+        "source_url": "https://www.reddit.com/r/movies/comments/j5c2q/leonardo_dicaprios_three_upcoming_films_no_biggie/",
+        "image_url": "https://external-preview.redd.it/leonardo-dicaprios-three-upcoming-films-no-biggie-v0-1ALKw8L16UpwLk-aPB1qsDA8eDIxk7bvKwhSAuQyI0s.jpg?auto=webp&s=d2ddc616e548a01543e565e164828a0aba781af5",
+        "source_domain": "Reddit",
+        "platform": "Reddit",
+        "is_social_media": true,
+        "candidate_image_sha256": "1ba0830f6025813e433ddd844b19be5d127bedd8abc3c14715e66c4d702c5347"
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.8593,
+        "similarity_percentage": "85.9%",
+        "source_title": "Leonardo Dicaprio | SELF",
+        "source_url": "https://www.self.com/topic/leonardo-dicaprio",
+        "image_url": "https://media.self.com/photos/59e6201c86e0031f4c9a43e3/1:1/w_1600,c_limit/leo.jpg",
+        "source_domain": "www.self.com",
+        "platform": "www.self.com",
+        "is_social_media": false,
+        "candidate_image_sha256": "6069b61dfd2b3b58520d79e10e5a64b888875d3a6098b98352ccedd59f01f796"
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.8482,
+        "similarity_percentage": "84.8%",
+        "source_title": "Fan pays big for space trip with Leo | Stuff",
+        "source_url": "https://www.stuff.co.nz/entertainment/celebrities/8713267/Fan-pays-big-for-space-trip-with-Leo",
+        "image_url": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DS7nc5socMXiw3+FeqnKLTfUeJKBNFhhtLFuB6e443I+/fqx8BIm84AeoaXiAzWI+ZJNpm9lCegEnkkqOhttPNk=",
+        "source_domain": "Stuff",
+        "platform": "Stuff",
+        "is_social_media": false,
+        "candidate_image_sha256": "cbdeaff7cd2fd19748840f8f76f52c538b34d5d58a9baa592ea4b971b4679035"
+      },
+      {
+        "rank": 6,
+        "similarity_score": 0.842,
+        "similarity_percentage": "84.2%",
+        "source_title": "Leonardo DiCaprio: Biography, Movies, Net Worth & Photos",
+        "source_url": "https://screendollars.com/celebrity/leonardo-dicaprio/",
+        "image_url": "https://screendollars-file-storage.s3.us-east-1.amazonaws.com/media/d665328b-0236-4536-a4d5-cea6013b05ef/0-LEONARDO-DICAPRIO-PROFILE-01.jpeg",
+        "source_domain": "Screendollars",
+        "platform": "Screendollars",
+        "is_social_media": false,
+        "candidate_image_sha256": "94a5747e9f3cb085e34e962087eee186bdbe38c79f7728b667694ae371e2f6ae"
+      },
+      {
+        "rank": 7,
+        "similarity_score": 0.831,
+        "similarity_percentage": "83.1%",
+        "source_title": "Leonardo DiCaprio - Age, Bio, Family | Famous Birthdays",
+        "source_url": "https://www.famousbirthdays.com/people/leonardo-dicaprio.html",
+        "image_url": "https://www.famousbirthdays.com/faces/dicaprio-l-image.jpg",
+        "source_domain": "Famous Birthdays",
+        "platform": "Famous Birthdays",
+        "is_social_media": false,
+        "candidate_image_sha256": "70f91907a27f4d8c51a4d5afd70909748cc632f013c9baaad13127d057138067"
+      },
+      {
+        "rank": 8,
+        "similarity_score": 0.83,
+        "similarity_percentage": "83.0%",
+        "source_title": "Leonardo DiCaprio Reveals His Biggest Hollywood Regret, the ...",
+        "source_url": "https://www.justjared.com/2025/08/13/leonardo-dicaprio-reveals-his-biggest-hollywood-regret-the-age-he-subconsciously-feels-how-choosing-films-sparingly-impacts-his-personal-life/3/",
+        "image_url": "https://cdn.justjared.com/wp-content/uploads/headlines/2025/08/leo-d5.jpg",
+        "source_domain": "Just Jared",
+        "platform": "Just Jared",
+        "is_social_media": false,
+        "candidate_image_sha256": "45b1c7a6c434a7ff2da6e6d38d584d2cb6377e1e968844ac07f81928bf25ccde"
+      },
+      {
+        "rank": 9,
+        "similarity_score": 0.8237,
+        "similarity_percentage": "82.4%",
+        "source_title": "Popular Celebrities | Leonardo DiCaprio | Hollywood Star",
+        "source_url": "https://www.thelifeofluxury.com/leonardo-dicaprio/",
+        "image_url": "https://www.thelifeofluxury.com/wp-content/uploads/2013/05/leonardo_dicaprio-1.jpg",
+        "source_domain": "The Life of Luxury",
+        "platform": "The Life of Luxury",
+        "is_social_media": false,
+        "candidate_image_sha256": "af5256058b3fbec0a09376dbf0081e88b42c82907a7893b9aee15d62b6553561"
+      },
+      {
+        "rank": 10,
+        "similarity_score": 0.8153,
+        "similarity_percentage": "81.5%",
+        "source_title": "Actor DiCaprio says climate action is U.S.'s 'biggest economic ...",
+        "source_url": "https://www.reuters.com/article/lifestyle/actor-dicaprio-says-climate-action-is-uss-biggest-economic-opportunity-idUSKBN1460PX/",
+        "image_url": "https://www.reuters.com/resizer/v2/https://archive-images.prod.global.a201836.reutersmedia.net/2016/12/17/LYNXMPECBG0GI.JPG?auth=5861536d57a7a48499a504c231601d5296292c287d441eb43917856a19a7e527&height=1920&width=1920&quality=80&smart=true",
+        "source_domain": "Reuters",
+        "platform": "Reuters",
+        "is_social_media": false,
+        "candidate_image_sha256": "13fd9ca588ca4eddf8211fc46b297693ecdb800d5fd73458b0cf6a66d2651b66"
+      },
+      {
+        "rank": 11,
+        "similarity_score": 0.8141,
+        "similarity_percentage": "81.4%",
+        "source_title": "Leonardo DiCaprio | Martin Scorsese Wiki | Fandom",
+        "source_url": "https://martin-scorsese.fandom.com/wiki/Leonardo_DiCaprio",
+        "image_url": "https://static.wikia.nocookie.net/martin-scorsese/images/e/ef/LeonardoDiCaprio.png/revision/latest/thumbnail/width/360/height/360?cb=20230916013319",
+        "source_domain": "Martin Scorsese Wiki - Fandom",
+        "platform": "Martin Scorsese Wiki - Fandom",
+        "is_social_media": false,
+        "candidate_image_sha256": "7339b52ebd1104ef5b71ffc3669eb000e4073013198194092400f72c88aa6213"
+      },
+      {
+        "rank": 12,
+        "similarity_score": 0.8102,
+        "similarity_percentage": "81.0%",
+        "source_title": "Where does Leonardo DiCaprio live? Take a peek at the ...",
+        "source_url": "https://www.architecturaldigest.in/story/where-does-leonardo-dicaprio-live-take-a-peek-at-the-oscar-winning-actors-houses/",
+        "image_url": "https://assets.architecturaldigest.in/photos/69b7a3876f70a965a3ab81dd/2:3/w_720,h_1080,c_limit/Untitled design - 2026-03-16T120021.588.png",
+        "source_domain": "Architectural Digest India",
+        "platform": "Architectural Digest India",
+        "is_social_media": false,
+        "candidate_image_sha256": "807aff12e6ee48312b8ab69484661ee1074aa1781373a0a51148d4524957bb36"
+      },
+      {
+        "rank": 13,
+        "similarity_score": 0.8083,
+        "similarity_percentage": "80.8%",
+        "source_title": "Leonardo DiCaprio's Ex-Agent Said His Name Was 'Too Ethnic ...",
+        "source_url": "https://www.reddit.com/r/entertainment/comments/1npszm5/leonardo_dicaprios_exagent_said_his_name_was_too/",
+        "image_url": "https://external-preview.redd.it/leonardo-dicaprios-ex-agent-said-his-name-was-too-ethnic-v0-0sfU4oLZ7ELr9f9x6h_KF37Lhqm7pFjzaMGLus3J1CU.jpeg?width=640&crop=smart&auto=webp&s=702db683ce6155174658186ee684ce90f671c5c3",
+        "source_domain": "Reddit",
+        "platform": "Reddit",
+        "is_social_media": true,
+        "candidate_image_sha256": "e4b2b59008de55775b3d7a95873f19fb2221e322e3441fa64e51350c8021726a"
+      },
+      {
+        "rank": 14,
+        "similarity_score": 0.8014,
+        "similarity_percentage": "80.1%",
+        "source_title": "Leonardo DiCaprio's three upcoming films. No biggie.",
+        "source_url": "https://www.reddit.com/r/movies/comments/j5c2q/leonardo_dicaprios_three_upcoming_films_no_biggie/",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5o2uDZix7lfzf1t_1lwck22Qq0px62LIAzT-fWITL73HNCbS_SnM&usqp=CAE&s",
+        "source_domain": "Reddit \u00b7 r/movies",
+        "platform": "Reddit",
+        "is_social_media": true,
+        "candidate_image_sha256": "124e290ec8f17fed0f276ff81c84a89af6b70beced059c6f0618522b70c43d90"
+      },
+      {
+        "rank": 15,
+        "similarity_score": 0.7975,
+        "similarity_percentage": "79.8%",
+        "source_title": "Leonardo DiCaprio | Movie ideas Wiki - Fandom",
+        "source_url": "https://movieideas.fandom.com/wiki/Leonardo_DiCaprio",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoqvhV7F0AB_J4wHOfDPm9nSo1mPhrQOAOY0Qb8d57Bb-enx5uK21T&usqp=CAE&s",
+        "source_domain": "Movie ideas Wiki",
+        "platform": "Movie ideas Wiki",
+        "is_social_media": false,
+        "candidate_image_sha256": "041e5601c34dffcb421e4658633d9b139c43385c5cc5ab16ccfa43c3331aa7aa"
+      },
+      {
+        "rank": 16,
+        "similarity_score": 0.7968,
+        "similarity_percentage": "79.7%",
+        "source_title": "Leonardo DiCaprio...2014 Grammy Awards",
+        "source_url": "https://www.pinterest.com/pin/leonardo-dicaprio2014-grammy-awards--399764904395291435/",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTledOnLs78-PcoJuId8_AC5ILo8LRgAtWDLNAbzMyLHv2YDNfuUf34&usqp=CAE&s",
+        "source_domain": "Pinterest \u00b7 antonietaruzzi",
+        "platform": "Pinterest",
+        "is_social_media": true,
+        "candidate_image_sha256": "fa1ac4245b0ebc8da2ce802bdce94fda08d020cf01d0a3157753900015beb740"
+      },
+      {
+        "rank": 17,
+        "similarity_score": 0.7524,
+        "similarity_percentage": "75.2%",
+        "source_title": "Leonardo DiCaprio - Wikipedia",
+        "source_url": "https://sco.wikipedia.org/wiki/Leonardo_DiCaprio",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Leonardo_DiCaprio_2014.jpg/250px-Leonardo_DiCaprio_2014.jpg?utm_source=sco.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "source_domain": "Wikipedia",
+        "platform": "Wikipedia",
+        "is_social_media": false,
+        "candidate_image_sha256": "c771f97063490b88a3580fdd15390b855475b2b0b14bd5fd6f5aeae10cd46380"
+      },
+      {
+        "rank": 18,
+        "similarity_score": 0.7207,
+        "similarity_percentage": "72.1%",
+        "source_title": "Leonardo DiCaprio - Wikipedia",
+        "source_url": "https://en.wikipedia.org/wiki/Leonardo_DiCaprio",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LeoPTABFI191125-28_(cropped).jpg/250px-LeoPTABFI191125-28_(cropped).jpg",
+        "source_domain": "Wikipedia",
+        "platform": "Wikipedia",
+        "is_social_media": false,
+        "candidate_image_sha256": "8f31b8d0bce47e12e313830fe4734cb7f916c57c16436efb8f5450b9989fb146"
+      }
+    ]
+  }
+}

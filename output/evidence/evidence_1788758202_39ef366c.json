@@ -1,0 +1,180 @@
+{
+  "evidence_hash": "ff845dc3b738eb736bc8ad9d3e9c8398bb770bf48470ba28495b77aaf58fc443",
+  "payload": {
+    "evidence_version": "1.1",
+    "timestamp_utc": "2026-09-07T05:17:50.171517+00:00",
+    "timestamp_unix": 1788758270,
+    "search_engine": "google_lens",
+    "verification_threshold": 0.5,
+    "input_source": "temp_uploads\\Screenshot 2026-09-02 113110.png",
+    "input_file_sha256": "e31245f599b94b4b16784d64f8ac8f24c833a80691ee22c109b5f1ed84ea8094",
+    "face_detection": {
+      "det_score": 0.8763922452926636,
+      "embedding_sha256": "85209689fb3b8ab934723c082e05e79834a4626ef7c8b81131300c23086f3eef",
+      "bbox": [
+        217,
+        68,
+        432,
+        373
+      ]
+    },
+    "verified_matches_count": 12,
+    "social_media_summary": {
+      "total_social_matches": 8,
+      "total_general_web_matches": 4,
+      "platforms_detected": {
+        "Pinterest": 3,
+        "YouTube": 1,
+        "Reddit": 2,
+        "TikTok": 1,
+        "Instagram": 1
+      }
+    },
+    "matches": [
+      {
+        "rank": 1,
+        "similarity_score": 0.9641,
+        "similarity_percentage": "96.4%",
+        "source_title": "8 Shraddha kapoor ideas | shraddha kapoor, shraddha kapoor ...",
+        "source_url": "https://in.pinterest.com/faisalah787/shraddha-kapoor/",
+        "image_url": "https://i.pinimg.com/474x/70/2e/03/702e03b29d3134052f7140a6762fc0ce.jpg",
+        "source_domain": "Pinterest",
+        "platform": "Pinterest",
+        "is_social_media": true,
+        "candidate_image_sha256": "c00988334a9d540efddf07c19723c105c6c9bc82f84468aba00eb899aaf59296"
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.9297,
+        "similarity_percentage": "93.0%",
+        "source_title": "Shraddha Kapoor, facial expression, HD phone wallpaper | Peakpx",
+        "source_url": "https://www.peakpx.com/en/hd-wallpaper-desktop-vyvji",
+        "image_url": "https://w0.peakpx.com/wallpaper/884/95/HD-wallpaper-shraddha-kapoor-facial-expression.jpg",
+        "source_domain": "Peakpx",
+        "platform": "Peakpx",
+        "is_social_media": false,
+        "candidate_image_sha256": "ceb5bd1c2baa42eac68b176a54463bff66e9120a972bffbf3b7c66327c007511"
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.8396,
+        "similarity_percentage": "84.0%",
+        "source_title": "Photos: Shraddha Kapoor spotted at Film City",
+        "source_url": "https://www.bollywoodhungama.com/mobile/news/parties-and-events/photos-shraddha-kapoor-spotted-film-city/",
+        "image_url": "https://media5.bollywoodhungama.in/wp-content/uploads/2020/02/Photos-Shraddha-Kapoor-spotted-at-Film-City-1-346x260.jpg",
+        "source_domain": "Bollywood Hungama",
+        "platform": "Bollywood Hungama",
+        "is_social_media": false,
+        "candidate_image_sha256": "fff3215687bab6bf722e2228d5ed8dd05c37ddfe5f19485375496d9cb1ccafad"
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.744,
+        "similarity_percentage": "74.4%",
+        "source_title": "Nazar na lag jaaye ( from stree ) - YouTube",
+        "source_url": "https://www.youtube.com/shorts/rwy6toUeW5Y",
+        "image_url": "https://i.ytimg.com/vi/rwy6toUeW5Y/oar2.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLB-VNVnN-A5PDQ8efQA8rwCL9j7rg&usqp=CCk",
+        "source_domain": "YouTube",
+        "platform": "YouTube",
+        "is_social_media": true,
+        "candidate_image_sha256": "3d06373ae98416c8241382303ffc1bb68c2bc6038b71e971ca5c24602e74e8a8"
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.661,
+        "similarity_percentage": "66.1%",
+        "source_title": "Shraddha is stubborn, charges more: Shakti Kapoor on why ...",
+        "source_url": "https://www.indiatoday.in/movies/celebrities/story/shraddha-is-stubborn-charges-more-shakti-kapoor-on-why-daughter-does-fewer-films-2841150-2025-12-24",
+        "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202512/shraddha-is-stubborn--charges-more-shakti-kapoor-on-why-daughter-does-fewer-films-243257927-3x4.jpg?VersionId=TqFTBS0FHL_ulL_8UrMSVBPSDWF7hvFb",
+        "source_domain": "India Today",
+        "platform": "India Today",
+        "is_social_media": false,
+        "candidate_image_sha256": "5895d43d6302d14921663c2d60ddcaa5fe0be4157d284da2471c989b9955a5e6"
+      },
+      {
+        "rank": 6,
+        "similarity_score": 0.6561,
+        "similarity_percentage": "65.6%",
+        "source_title": "8 Shraddha kapoor ideas | shraddha kapoor, shraddha ...",
+        "source_url": "https://www.pinterest.com/himelkhan4014/shraddha-kapoor/",
+        "image_url": "https://i.pinimg.com/736x/1d/ec/27/1dec2788ee153fcc549cb1944e045a71.jpg",
+        "source_domain": "Pinterest",
+        "platform": "Pinterest",
+        "is_social_media": true,
+        "candidate_image_sha256": "e23ea488dfb4917a72daf20f5520caef7f2aa184b6b1839ff2f2d62d9193f2b4"
+      },
+      {
+        "rank": 7,
+        "similarity_score": 0.6382,
+        "similarity_percentage": "63.8%",
+        "source_title": "Shraddha Kapoor \u2014 Credits & Filmography | TheReviewMonk",
+        "source_url": "https://thereviewmonk.com/person/shraddha-kapoor/",
+        "image_url": "https://img.thereviewmonk.com/people/440/w256.webp?v=440-1781939740013.jpg",
+        "source_domain": "TheReviewMonk Critic reviews \u00b7 Indian cinema",
+        "platform": "TheReviewMonk Critic reviews \u00b7 Indian cinema",
+        "is_social_media": false,
+        "candidate_image_sha256": "553f15a59a13520eee941a14b86a1e891f85eef6126383c8da86e4c1dfa67062"
+      },
+      {
+        "rank": 8,
+        "similarity_score": 0.6352,
+        "similarity_percentage": "63.5%",
+        "source_title": "Sharddha Kapoor's heavenly face. : r/shraddhakapoor",
+        "source_url": "https://www.reddit.com/r/shraddhakapoor/comments/jib5l4/sharddha_kapoors_heavenly_face/",
+        "image_url": "https://preview.redd.it/sharddha-kapoors-heavenly-face-v0-8qxyhu7ilev51.jpg?width=1080&crop=smart&auto=webp&s=da1716de0dbc6dfcd3ddb80cbb71d6000dd46205",
+        "source_domain": "Reddit",
+        "platform": "Reddit",
+        "is_social_media": true,
+        "candidate_image_sha256": "ad571225ea720eb7f5ddde4248b21db6ea2f91963c25c107f4939e86732bd903"
+      },
+      {
+        "rank": 9,
+        "similarity_score": 0.6151,
+        "similarity_percentage": "61.5%",
+        "source_title": "55 Dicklingam - Shraddha Kapoor ideas",
+        "source_url": "https://in.pinterest.com/ajitarvindwavikar/dicklingam-shraddha-kapoor/",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIeMKFSpbFngdMLhFhv7BSM6TFDIXRmmC44z625NrNFDpx2kVoL2a&usqp=CAE&s",
+        "source_domain": "Pinterest",
+        "platform": "Pinterest",
+        "is_social_media": true,
+        "candidate_image_sha256": "3b4a663304eca9f9b12415ddff6d22c554c81d2dd63ea01fda4a068338b2418d"
+      },
+      {
+        "rank": 10,
+        "similarity_score": 0.612,
+        "similarity_percentage": "61.2%",
+        "source_title": "Which one actress you find the most beautiful among these ...",
+        "source_url": "https://www.reddit.com/r/BollywoodHotTakes/comments/1qvhcs6/which_one_actress_you_find_the_most_beautiful/",
+        "image_url": "https://i.redd.it/yev3wuzj2ihg1.jpeg",
+        "source_domain": "Reddit",
+        "platform": "Reddit",
+        "is_social_media": true,
+        "candidate_image_sha256": "3d4fc1f93de842b73716c950e09cad38b65b7f8d412440e130dce2e7b01b770b"
+      },
+      {
+        "rank": 11,
+        "similarity_score": 0.5842,
+        "similarity_percentage": "58.4%",
+        "source_title": "Shraddha Kapoor: Lessons of Hard Work from Shakti Kapoor ...",
+        "source_url": "https://www.tiktok.com/@deadline/video/7447144131278753067",
+        "image_url": "https://www.tiktok.com/api/img/?itemId=7447144131278753067&location=0&aid=1988",
+        "source_domain": "TikTok",
+        "platform": "TikTok",
+        "is_social_media": true,
+        "candidate_image_sha256": "3fe71853cc3d59c18a81776b26a8b6d7705161b149468d90f0e0cf56fb00113c"
+      },
+      {
+        "rank": 12,
+        "similarity_score": 0.5501,
+        "similarity_percentage": "55.0%",
+        "source_title": "Shraddha Kapoor",
+        "source_url": "https://www.instagram.com/p/DQhzjuuDPG3/",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzeGBZdew-y3VxZxeIehLmDdOdGBHoBo7TpiycKOULOz0a3MJ79PLvvAtxnTLUbb2fEfRvg&s",
+        "source_domain": "Instagram \u00b7 celebo.inc",
+        "platform": "Instagram",
+        "is_social_media": true,
+        "candidate_image_sha256": "d11f16e07a36416357e20b7aa692cb67eb1ecd85404ba9983ce6156d93d80c5f"
+      }
+    ]
+  }
+}

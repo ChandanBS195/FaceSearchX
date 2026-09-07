@@ -1,0 +1,75 @@
+{
+  "evidence_hash": "2c1cd4f2069f61b02a19e8d7decb6e47384b07e88a65508790a49f5611b1b778",
+  "payload": {
+    "evidence_version": "1.0",
+    "timestamp_utc": "2026-09-02T07:17:02.901178+00:00",
+    "timestamp_unix": 1788333422,
+    "search_engine": "google_lens",
+    "verification_threshold": 0.5,
+    "input_source": "c:\\Users\\chand\\Downloads\\FaceID\\Resources\\Screenshot 2026-09-02 100028.png",
+    "input_file_sha256": "c54381b7a197ddb332ab46e4c3e3a66227e420d5e7c6a2b46c700355ca8d6506",
+    "face_detection": {
+      "det_score": 0.7963916659355164,
+      "embedding_sha256": "a71b758dce0a56967b9924e5a284f8806b48b6c6d95003cabba90a2e64774fd3",
+      "bbox": [
+        245,
+        51,
+        395,
+        235
+      ]
+    },
+    "verified_matches_count": 5,
+    "matches": [
+      {
+        "rank": 1,
+        "similarity_score": 0.8653,
+        "similarity_percentage": "86.53%",
+        "source_title": "A US federal judge in Brooklyn has officially dismissed ...",
+        "source_url": "https://www.instagram.com/p/Db7_y99CZ8R/",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTRZBE_2cu5A1eeGh2DTfDHim7mpJdpqIkyg-OqM6adaYQD1VIw57w&usqp=CAE&s",
+        "source_domain": "Instagram \u00b7 factlinenp",
+        "candidate_image_sha256": "119d6f807725e4d08e14b5efaee16df624f6a82f3e07cc1df3159890ba29e4cf"
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.8463,
+        "similarity_percentage": "84.63%",
+        "source_title": "Warm birthday wishes to you, dear Gautam Bhai. Your ...",
+        "source_url": "https://www.facebook.com/NaveenJindalMP/posts/warm-birthday-wishes-to-you-dear-gautam-bhaiyour-visionary-leadership-and-extrao/1258589835630701/",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwQTZ39kCcidJqopuaVywBU6pw4ANtxMsQ8Y7KYwvdX10p2hpRNxy&usqp=CAE&s",
+        "source_domain": "Facebook \u00b7 Naveen Jindal",
+        "candidate_image_sha256": "26ed7ac4f606a21d8bf78478bd36c61dc2755daa43841f4cdccf2a1cef6770a3"
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.8073,
+        "similarity_percentage": "80.73%",
+        "source_title": "Gautam Adani",
+        "source_url": "https://en.wikipedia.org/wiki/Gautam_Adani",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnivmtSwCGxB7eJV2fFo0WCXWvJ_yuh-isaCun9NVAdRe6-WS2hI8&usqp=CAE&s",
+        "source_domain": "Wikipedia",
+        "candidate_image_sha256": "014c1bafc10712352ca32de53cbc4e151db8981b6b972fb2483df60fdf2b53ab"
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.7473,
+        "similarity_percentage": "74.73%",
+        "source_title": "Gautam Adani | Biography, Business, Family, Indictment, & ...",
+        "source_url": "https://www.britannica.com/biography/Gautam-Adani",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuUDQ1a-9sB_rQ7SYGFgSYNYK8E-oEnm8ZkvtSMlT97zy50i-UWdBR&usqp=CAE&s",
+        "source_domain": "Britannica",
+        "candidate_image_sha256": "4ba0e24896b6f3dbe94a2d02ca5f41b9b624c92f306490aa456a4911222d4d99"
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.6988,
+        "similarity_percentage": "69.88%",
+        "source_title": "Gautam Adani | Founder & Chairman",
+        "source_url": "https://www.adani.com/about-us/leadership/gautam-adani",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZhlhVuKyrrhOVFO-HKUIyvR5_rj6f6khy9IOysfRWaCGWXCL-mjsb&usqp=CAE&s",
+        "source_domain": "Adani",
+        "candidate_image_sha256": "b84663432b1b178eb0c5104442c1ffc4efb75f51c5870331f3df706010cee23a"
+      }
+    ]
+  }
+}

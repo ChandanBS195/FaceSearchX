@@ -1,0 +1,261 @@
+{
+  "evidence_hash": "a8df9d9f65dfc89a6ae92b0668fe628e90c50e841ada3547b34429a0d42177df",
+  "payload": {
+    "evidence_version": "1.1",
+    "timestamp_utc": "2026-09-07T04:18:55.003847+00:00",
+    "timestamp_unix": 1788754735,
+    "search_engine": "google_lens",
+    "verification_threshold": 0.5,
+    "input_source": "image3.png",
+    "input_file_sha256": "b8a4798f50aea6571466d250fb53e4e81f48cc42ec4e0284497c5ad16595032f",
+    "face_detection": {
+      "det_score": 0.8909562826156616,
+      "embedding_sha256": "0357488151c0369a8f13c03f6f85f3113ffbf7274a67a6c2eb892e7d67465623",
+      "bbox": [
+        222,
+        37,
+        433,
+        311
+      ]
+    },
+    "verified_matches_count": 19,
+    "social_media_summary": {
+      "total_social_matches": 7,
+      "total_general_web_matches": 12,
+      "platforms_detected": {
+        "X (Twitter)": 5,
+        "Instagram": 2
+      }
+    },
+    "matches": [
+      {
+        "rank": 1,
+        "similarity_score": 0.9845,
+        "similarity_percentage": "98.5%",
+        "source_title": "Resmi R Nair on X: \"We will be live tonight 11.00 Book your ...",
+        "source_url": "https://x.com/Resmi_R_Nair/status/1888847188572401674",
+        "image_url": "https://pbs.twimg.com/profile_images/1859939794899374080/IwpEmxWj_400x400.jpg",
+        "source_domain": "x.com",
+        "platform": "X (Twitter)",
+        "is_social_media": true,
+        "candidate_image_sha256": "c6ec4df537b04f25a6223d94e738bd05037af7c3c675f7599eb2e99cfee30e88"
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.9768,
+        "similarity_percentage": "97.7%",
+        "source_title": "Navra Maza Navsacha 2 \u092e\u0947\u0902 Shriya Pilgaonkar \u0915\u093e ...",
+        "source_url": "https://mayapuri.com/photos/entertainment/shriya-pilgaonkar-special-appearance-in-sachin-pilgaonkar-blockbuster-marathi-sequel-navra-maza-navsacha-2-takes-audience-by-surprise-7083672-publive-webstory",
+        "image_url": "https://img-cdn.publive.online/fit-in/900x1600/filters:format(webp)/mayapuri/media/media_files/SjuJUnxjv2UJqiwycdlz.jpg",
+        "source_domain": "Mayapuri",
+        "platform": "Mayapuri",
+        "is_social_media": false,
+        "candidate_image_sha256": "bdabc5294469e7b139b72342f4190ecbb64ead8197b0adf54e7ebc6ad818bd71"
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.9385,
+        "similarity_percentage": "93.8%",
+        "source_title": "8 Shriya pilgaonkar ideas | actresses, indian actresses ...",
+        "source_url": "https://in.pinterest.com/krishnakgamitar/shriya-pilgaonkar/",
+        "image_url": "https://i.pinimg.com/236x/47/16/1b/47161bc97ed518d755b22a3d88955111.jpg",
+        "source_domain": "Pinterest",
+        "platform": "X (Twitter)",
+        "is_social_media": true,
+        "candidate_image_sha256": "b66914a58c3e423621cc783b01e330be950f6cbddcd6346c07786ed555446d53"
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.8824,
+        "similarity_percentage": "88.2%",
+        "source_title": "Swara Bhasker: 'Sitting in 2026, we are discussing things ...",
+        "source_url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-feel-every-culture-evolves-with-time-shriya-pilgaonkar-reacts-to-swara-bhaskers-padmaavat-controversy/articleshow/133792153.cms",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuVYSXb_q5uwVLn-7VDofMjYDLOF_jFOM2DLpYDiV3tsX-retaoERp&usqp=CAE&s",
+        "source_domain": "The Times of India",
+        "platform": "The Times of India",
+        "is_social_media": false,
+        "candidate_image_sha256": "55bc761c4697a2d425a47cccc6dfe37725e4d845fb9e8fb37d9b8c47bcbb2777"
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.8411,
+        "similarity_percentage": "84.1%",
+        "source_title": "NDTV Exclusive: Asked If She Lost A Role To Someone ...",
+        "source_url": "https://www.ndtv.com/entertainment/ndtv-exclusive-asked-if-she-lost-a-role-to-someone-with-larger-social-media-following-shriya-pilgaonkar-said-yes-on-many-projects-8739951",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyI0fO02bfObG7Wq0CZIzKruTfPzPDkSNPboQt-l3HtKTABQlM1dNh&usqp=CAE&s",
+        "source_domain": "NDTV",
+        "platform": "NDTV",
+        "is_social_media": false,
+        "candidate_image_sha256": "8c5db09649b46dc60c62b3c308cfaf0abd816febafa39a6569ef416f62d27983"
+      },
+      {
+        "rank": 6,
+        "similarity_score": 0.8048,
+        "similarity_percentage": "80.5%",
+        "source_title": "Shriya Pilgaonkar is back as Sweety in Mirzapur: The Film ...",
+        "source_url": "https://www.instagram.com/p/DTUspAvmABG/?hl\\u003den",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXsdcJm1zHyHCiZ4EiF3OoaWGgyQZpU1urFOpZC-BatepPYt3MSw_F&usqp=CAE&s",
+        "source_domain": "Instagram \u00b7 thestatesmanltd",
+        "platform": "Instagram",
+        "is_social_media": true,
+        "candidate_image_sha256": "6a227919b5c03e10936433fb0cfc48122ab58ac47c4942914b315f548f755210"
+      },
+      {
+        "rank": 7,
+        "similarity_score": 0.798,
+        "similarity_percentage": "79.8%",
+        "source_title": "The Statesman on X: \"Shriya Pilgaonkar is back as Sweety ...",
+        "source_url": "https://x.com/TheStatesmanLtd/status/2009904617405202740",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvUupZ9YPkq30-bYAEMJJ6oQwVWL01CUVlp6mmXJha4DfkmPziAIPh&usqp=CAE&s",
+        "source_domain": "X \u00b7 TheStatesmanLtd",
+        "platform": "X (Twitter)",
+        "is_social_media": true,
+        "candidate_image_sha256": "dcbae932dda57582938a5bc6a46f481213114307672aeecc24831c25b7c3e15d"
+      },
+      {
+        "rank": 8,
+        "similarity_score": 0.7855,
+        "similarity_percentage": "78.5%",
+        "source_title": "Blog \u2013 Page 3 \u2013 M\u00f2kah Woman",
+        "source_url": "https://mokahwoman.com/blogs/blog?page=3",
+        "image_url": "https://mokahwoman.com/cdn/shop/articles/office.webp?v=1753168375&width=533",
+        "source_domain": "M\u00f2kah Woman",
+        "platform": "M\u00f2kah Woman",
+        "is_social_media": false,
+        "candidate_image_sha256": "fdf56a1a6d7aa1c6c07e1b460917976800d367beed735a535cca1c20e12047f3"
+      },
+      {
+        "rank": 9,
+        "similarity_score": 0.7665,
+        "similarity_percentage": "76.7%",
+        "source_title": "\u096e \u0935\u0930\u094d\u0937\u093e\u0902\u0928\u0902\u0924\u0930 \u0938\u094d\u0935\u0940\u091f\u0940 \u0917\u0941\u092a\u094d\u0924\u093e\u091a\u0940 ...",
+        "source_url": "https://marathi.abplive.com/photo-gallery/entertainment/mirzapur-actress-shreya-pilgaonkar-hints-at-sweetie-guptas-comeback-1408081",
+        "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/01/11/842aacbb761844771680793ad9c464c24255e.jpeg",
+        "source_domain": "ABP \u0928\u094d\u092f\u0942\u091c\u093c",
+        "platform": "ABP \u0928\u094d\u092f\u0942\u091c\u093c",
+        "is_social_media": false,
+        "candidate_image_sha256": "f7537acd25f20a01046e4798c28ec1af695d8075258179798573388607f4f7cd"
+      },
+      {
+        "rank": 10,
+        "similarity_score": 0.7555,
+        "similarity_percentage": "75.5%",
+        "source_title": "\u0935\u0947\u092c \u0938\u0940\u0930\u0940\u091c\u093c \u0915\u0940 \u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0947 \u092f\u0947 10 ...",
+        "source_url": "https://www.merisaheli.com/top-10-most-talented-actors-of-web-series-are-winning-the-hearts/",
+        "image_url": "https://www.merisaheli.com/wp-content/uploads/2020/05/images-8-3.jpeg",
+        "source_domain": "Meri Saheli",
+        "platform": "Meri Saheli",
+        "is_social_media": false,
+        "candidate_image_sha256": "af2498677c56699c99b75d27e93b54dc20b5011d58f6ed584453062103fd23eb"
+      },
+      {
+        "rank": 11,
+        "similarity_score": 0.7526,
+        "similarity_percentage": "75.3%",
+        "source_title": "Know secrets of female life | \u091c\u093e\u0928\u093f\u090f \u092e\u0939\u093f\u0932\u093e\u0913\u0902 \u0915\u0947 ...",
+        "source_url": "https://zeenews.india.com/hindi/web-stories/india/rajasthan/know-secrets-of-female-life/2076391",
+        "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2024/01/24/2598377-5.jpg",
+        "source_domain": "Zee News - India.com",
+        "platform": "Zee News - India.com",
+        "is_social_media": false,
+        "candidate_image_sha256": "a23d2f6985c41dfad18e90e9916d3b5144e82f8c9ab4224d2d919b2959d2d396"
+      },
+      {
+        "rank": 12,
+        "similarity_score": 0.7344,
+        "similarity_percentage": "73.4%",
+        "source_title": "Shreya Pujari",
+        "source_url": "https://www.pinterest.com/ideas/shreya-pujari/907525918210/",
+        "image_url": "https://i.pinimg.com/236x/a1/ec/d2/a1ecd22cfb982f20024df7f9d4dfae68.jpg",
+        "source_domain": "Pinterest",
+        "platform": "X (Twitter)",
+        "is_social_media": true,
+        "candidate_image_sha256": "c895c28dcd2547862d0adfebe646bacad79f208c3e7831194fecf3f8fdd713f5"
+      },
+      {
+        "rank": 13,
+        "similarity_score": 0.7089,
+        "similarity_percentage": "70.9%",
+        "source_title": "Shriya Pilgaonkar : sa biographie, filmographie, et quelques ...",
+        "source_url": "https://www.cinefil.com/star/shriya-pilgaonkar",
+        "image_url": "https://images3.cinefil.com/stars/1070543.webp?class=heroog",
+        "source_domain": "Cin\u00e9fil",
+        "platform": "Cin\u00e9fil",
+        "is_social_media": false,
+        "candidate_image_sha256": "5d2b4e4a01af11a0f07e3bfe3c11cddf26c89fcaf6de0e498e27c0895a1eb5a6"
+      },
+      {
+        "rank": 14,
+        "similarity_score": 0.7086,
+        "similarity_percentage": "70.9%",
+        "source_title": "Haiwaan - Bollywood.com",
+        "source_url": "https://www.bollywood.com/movies/haiwaan/",
+        "image_url": "https://www.bollywood.com/wp-content/uploads/2026/07/shriyapilgaonkarportrait.jpg",
+        "source_domain": "Bollywood.com",
+        "platform": "Bollywood.com",
+        "is_social_media": false,
+        "candidate_image_sha256": "98a4949c3ac177b7d088c018132b10c9a6202e002b8daad573183f4d925faebd"
+      },
+      {
+        "rank": 15,
+        "similarity_score": 0.7073,
+        "similarity_percentage": "70.7%",
+        "source_title": "Shriya Pilgaonkar - Wikipedia",
+        "source_url": "https://en.wikipedia.org/wiki/Shriya_Pilgaonkar",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Shriya_Pilgaonkar_at_the_special_screening_of_the_web_series_Mirzapur.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+        "source_domain": "Wikipedia",
+        "platform": "Wikipedia",
+        "is_social_media": false,
+        "candidate_image_sha256": "d1b225887ebcc0f7c9bce25d2cc0e90b24eaea0780f17ac5fe11154bdad5f539"
+      },
+      {
+        "rank": 16,
+        "similarity_score": 0.6908,
+        "similarity_percentage": "69.1%",
+        "source_title": "Shriya Pilgaonkar - Wikiwand",
+        "source_url": "https://www.wikiwand.com/en/Shriya_Pilgaonkar",
+        "image_url": "https://img.wikiwand.com/wikipedia/commons/thumb/9/93/Shriya_Pilgaonkar_snapped_at_the_muhurat_pooja_of_the_movie_Mirzapur_(cropped).jpg/1280px-Shriya_Pilgaonkar_snapped_at_the_muhurat_pooja_of_the_movie_Mirzapur_(cropped).jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source_domain": "Wikiwand",
+        "platform": "Wikiwand",
+        "is_social_media": false,
+        "candidate_image_sha256": "be7c7f728d8c16a0a0cdba61648f0a9aff89800bcaf1ab97ad63aab2b4351533"
+      },
+      {
+        "rank": 17,
+        "similarity_score": 0.6475,
+        "similarity_percentage": "64.8%",
+        "source_title": "9 Shriya Pilgaonkar ideas | actresses, indian actresses, actors",
+        "source_url": "https://uk.pinterest.com/asamqureshi0225193/shriya-pilgaonkar/",
+        "image_url": "https://i.pinimg.com/236x/00/95/3f/00953f220279f16bf3da20b1e1a6b530.jpg",
+        "source_domain": "Pinterest",
+        "platform": "X (Twitter)",
+        "is_social_media": true,
+        "candidate_image_sha256": "443f4ee75164dabe2dc495617d8495d0d4901c1ae2739f94f401e87344f2484b"
+      },
+      {
+        "rank": 18,
+        "similarity_score": 0.6402,
+        "similarity_percentage": "64.0%",
+        "source_title": "Shriya Pilgaonkar - IMDb",
+        "source_url": "https://www.imdb.com/name/nm6798708/",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYWFjNWQ1YWYtZTczZC00MjdmLTg3YjUtYTg3ZDRlMTE4NjQ4XkEyXkFqcGc@._V1_.jpg",
+        "source_domain": "IMDb",
+        "platform": "IMDb",
+        "is_social_media": false,
+        "candidate_image_sha256": "10d600f692f336be36769f61041759c75947b73aa177df929b857b7caf91dc9a"
+      },
+      {
+        "rank": 19,
+        "similarity_score": 0.6357,
+        "similarity_percentage": "63.6%",
+        "source_title": "shriya.pilgaonkar explains what it was like go back to playing a ...",
+        "source_url": "https://www.instagram.com/reel/Dc5FkZHqmdA/",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROi91DGoDCqeGLVzFZhFUzStHy6yqyR9OUHQFZZBvhfsgd_1gecmEZTg&s",
+        "source_domain": "Instagram \u00b7 rohitkhilnani",
+        "platform": "Instagram",
+        "is_social_media": true,
+        "candidate_image_sha256": "200071345ef28198a69c2f9ea7eac072cb90bdd112522a5250e4c3fa580a715c"
+      }
+    ]
+  }
+}

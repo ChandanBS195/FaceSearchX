@@ -1,0 +1,240 @@
+{
+  "evidence_hash": "025de1d4943017fe80ff62888f1dbafbb8ae4e13a85d910d0df2b81e0b933434",
+  "payload": {
+    "evidence_version": "1.1",
+    "timestamp_utc": "2026-09-07T05:28:47.258480+00:00",
+    "timestamp_unix": 1788758927,
+    "search_engine": "google_lens",
+    "verification_threshold": 0.5,
+    "input_source": "image3.png",
+    "input_file_sha256": "b8a4798f50aea6571466d250fb53e4e81f48cc42ec4e0284497c5ad16595032f",
+    "face_detection": {
+      "det_score": 0.8909562826156616,
+      "embedding_sha256": "0357488151c0369a8f13c03f6f85f3113ffbf7274a67a6c2eb892e7d67465623",
+      "bbox": [
+        222,
+        37,
+        433,
+        311
+      ]
+    },
+    "verified_matches_count": 17,
+    "social_media_summary": {
+      "total_social_matches": 6,
+      "total_general_web_matches": 11,
+      "platforms_detected": {
+        "Instagram": 1,
+        "X (Twitter)": 2,
+        "Reddit": 1,
+        "YouTube": 1,
+        "Pinterest": 1
+      }
+    },
+    "matches": [
+      {
+        "rank": 1,
+        "similarity_score": 0.9871,
+        "similarity_percentage": "98.7%",
+        "source_title": "Shriya Pilgaonkar starts shooting for 'The Gone Game Season 2'",
+        "source_url": "https://www.thehansindia.com/featured/womenia/shriya-pilgaonkar-starts-shooting-for-the-gone-game-season-2-695698",
+        "image_url": "https://assets.thehansindia.com/h-upload/2021/07/13/1088228-shivani.jpg",
+        "source_domain": "The Hans India",
+        "platform": "The Hans India",
+        "is_social_media": false,
+        "candidate_image_sha256": "77daeb0b3e51eb0bb6e9e43bdc62d64d5681310dd682d8db6770baaeadb49471"
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.987,
+        "similarity_percentage": "98.7%",
+        "source_title": "Success of Mirzapur changed the momentum of my career ...",
+        "source_url": "https://indianexpress.com/article/entertainment/web-series/success-of-mirzapur-changed-the-momentum-of-my-career-shriya-pilgaonkar-6579159/",
+        "image_url": "https://images.indianexpress.com/2020/09/shriya-pilgaonkar.jpg",
+        "source_domain": "The Indian Express",
+        "platform": "The Indian Express",
+        "is_social_media": false,
+        "candidate_image_sha256": "51509a6ff45037b42b108728ab1dd1efdbf0e68e45d0c9ae4371542add64de66"
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.9783,
+        "similarity_percentage": "97.8%",
+        "source_title": "Shriya Pilgaonkar on her latest thriller Crackdown, and how ...",
+        "source_url": "https://www.firstpost.com/entertainment/shriya-pilgaonkar-on-her-latest-thriller-crackdown-and-how-mirazpurs-success-changed-the-momentum-of-her-career-8846751.html",
+        "image_url": "https://images.firstpost.com/wp-content/uploads/2020/09/shriya-pilgaonkar.jpg",
+        "source_domain": "Firstpost",
+        "platform": "Firstpost",
+        "is_social_media": false,
+        "candidate_image_sha256": "308b30c9efe40f4e69d4c9bf0dd648b5d5d261923c414a34fd78f953b5b6306c"
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.9768,
+        "similarity_percentage": "97.7%",
+        "source_title": "Navra Maza Navsacha 2 \u092e\u0947\u0902 Shriya Pilgaonkar \u0915\u093e ...",
+        "source_url": "https://mayapuri.com/photos/entertainment/shriya-pilgaonkar-special-appearance-in-sachin-pilgaonkar-blockbuster-marathi-sequel-navra-maza-navsacha-2-takes-audience-by-surprise-7083672-publive-webstory",
+        "image_url": "https://img-cdn.publive.online/fit-in/900x1600/filters:format(webp)/mayapuri/media/media_files/SjuJUnxjv2UJqiwycdlz.jpg",
+        "source_domain": "Mayapuri",
+        "platform": "Mayapuri",
+        "is_social_media": false,
+        "candidate_image_sha256": "bdabc5294469e7b139b72342f4190ecbb64ead8197b0adf54e7ebc6ad818bd71"
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.9484,
+        "similarity_percentage": "94.8%",
+        "source_title": "Shriya Pilgaonkar sheds light on her 'The Broken News ...",
+        "source_url": "https://timesofindia.indiatimes.com/web-series/news/hindi/shriya-pilgaonkar-sheds-light-on-her-the-broken-news-character/articleshow/91987843.cms",
+        "image_url": "https://static.toiimg.com/thumb/msid-91987811,width-1280,height-720,resizemode-4/91987811.jpg",
+        "source_domain": "The Times of India",
+        "platform": "The Times of India",
+        "is_social_media": false,
+        "candidate_image_sha256": "3c0006ae357893fbf04a292505c384209d6c153380cc974d4d3c07634cd960ae"
+      },
+      {
+        "rank": 6,
+        "similarity_score": 0.9199,
+        "similarity_percentage": "92.0%",
+        "source_title": "NDTV Exclusive: Asked If She Lost A Role To Someone With ...",
+        "source_url": "https://www.ndtv.com/entertainment/ndtv-exclusive-asked-if-she-lost-a-role-to-someone-with-larger-social-media-following-shriya-pilgaonkar-said-yes-on-many-projects-8739951",
+        "image_url": "https://c.ndtvimg.com/2025-06/tdoikqec_shriya-pilgaonkar_625x300_23_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "source_domain": "NDTV",
+        "platform": "NDTV",
+        "is_social_media": false,
+        "candidate_image_sha256": "5d3900695e1ea4fe3473621a7114fdf9a53655f4afefb70924d9b4baf6e02777"
+      },
+      {
+        "rank": 7,
+        "similarity_score": 0.8814,
+        "similarity_percentage": "88.1%",
+        "source_title": "Swara Bhasker: 'Sitting in 2026, we are discussing things ...",
+        "source_url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-feel-every-culture-evolves-with-time-shriya-pilgaonkar-reacts-to-swara-bhaskers-padmaavat-controversy/articleshow/133792153.cms",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm9FgwyjLh6CKRIXdIgb5zAVeCzVJVtyur2YgQeiYvS5-owb8R5Kpm&usqp=CAE&s",
+        "source_domain": "The Times of India",
+        "platform": "The Times of India",
+        "is_social_media": false,
+        "candidate_image_sha256": "c13b85ce66d191d18ead255360299168cc24996717234a454f0538db2d776172"
+      },
+      {
+        "rank": 8,
+        "similarity_score": 0.8411,
+        "similarity_percentage": "84.1%",
+        "source_title": "NDTV Exclusive: Asked If She Lost A Role To Someone ...",
+        "source_url": "https://www.ndtv.com/entertainment/ndtv-exclusive-asked-if-she-lost-a-role-to-someone-with-larger-social-media-following-shriya-pilgaonkar-said-yes-on-many-projects-8739951",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyI0fO02bfObG7Wq0CZIzKruTfPzPDkSNPboQt-l3HtKTABQlM1dNh&usqp=CAE&s",
+        "source_domain": "NDTV",
+        "platform": "NDTV",
+        "is_social_media": false,
+        "candidate_image_sha256": "8c5db09649b46dc60c62b3c308cfaf0abd816febafa39a6569ef416f62d27983"
+      },
+      {
+        "rank": 9,
+        "similarity_score": 0.8048,
+        "similarity_percentage": "80.5%",
+        "source_title": "Shriya Pilgaonkar is back as Sweety in Mirzapur: The Film ...",
+        "source_url": "https://www.instagram.com/p/DTUspAvmABG/?hl\\u003den",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXsdcJm1zHyHCiZ4EiF3OoaWGgyQZpU1urFOpZC-BatepPYt3MSw_F&usqp=CAE&s",
+        "source_domain": "Instagram \u00b7 thestatesmanltd",
+        "platform": "Instagram",
+        "is_social_media": true,
+        "candidate_image_sha256": "6a227919b5c03e10936433fb0cfc48122ab58ac47c4942914b315f548f755210"
+      },
+      {
+        "rank": 10,
+        "similarity_score": 0.798,
+        "similarity_percentage": "79.8%",
+        "source_title": "The Statesman on X: \"Shriya Pilgaonkar is back as Sweety ...",
+        "source_url": "https://x.com/TheStatesmanLtd/status/2009904617405202740",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvUupZ9YPkq30-bYAEMJJ6oQwVWL01CUVlp6mmXJha4DfkmPziAIPh&usqp=CAE&s",
+        "source_domain": "X \u00b7 TheStatesmanLtd",
+        "platform": "X (Twitter)",
+        "is_social_media": true,
+        "candidate_image_sha256": "dcbae932dda57582938a5bc6a46f481213114307672aeecc24831c25b7c3e15d"
+      },
+      {
+        "rank": 11,
+        "similarity_score": 0.757,
+        "similarity_percentage": "75.7%",
+        "source_title": "Shriya Pilgaonkar on being a star kid: 'Was not on magazine ...",
+        "source_url": "https://www.freepressjournal.in/entertainment/shriya-pilgaonkar-on-being-a-star-kid-was-not-on-magazine-covers-before-my-films-released-have-earned-my-place-in-showbiz",
+        "image_url": "https://media.assettype.com/freepressjournal/2023-05/d452e3ed-24bc-4e6f-ae38-691264c8b701/Untitled_design__83_.jpg?rect=0,0,3900,2048&w=1200&auto=format,compress&ogImage=true",
+        "source_domain": "Free Press Journal",
+        "platform": "Free Press Journal",
+        "is_social_media": false,
+        "candidate_image_sha256": "08d8626ab6a2af71b2a6eec2a85dbf717ced3c664d670a24c9bcb737755b43bf"
+      },
+      {
+        "rank": 12,
+        "similarity_score": 0.752,
+        "similarity_percentage": "75.2%",
+        "source_title": "Shriya Pilgaonkar shared a post on social media about her ...",
+        "source_url": "https://www.prokerala.com/news/articles/a1005811.html",
+        "image_url": "https://www.prokerala.com/news/photos/imgs/800x600/actress-shriya-pilgaonkar-940561.jpg",
+        "source_domain": "Prokerala",
+        "platform": "Prokerala",
+        "is_social_media": false,
+        "candidate_image_sha256": "b65db4c75f9d690d278a65a4976037fc7bfc3002469bad0cac8080db2048a1ba"
+      },
+      {
+        "rank": 13,
+        "similarity_score": 0.7187,
+        "similarity_percentage": "71.9%",
+        "source_title": "Shriya Pilgaonkar: My parents taught me to deal with ...",
+        "source_url": "https://www.imdb.com/es/news/ni63598663/",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BY2Q5NDZjZDUtMmM2MS00NWFlLTg4MWYtNmJlNzJjNDg4ZmI2XkEyXkFqcGc@._V1_.jpg",
+        "source_domain": "IMDb",
+        "platform": "IMDb",
+        "is_social_media": false,
+        "candidate_image_sha256": "8644404f452339f6ca253a5795c4f4440dd97a593da94345eb9b742d6d910c04"
+      },
+      {
+        "rank": 14,
+        "similarity_score": 0.7173,
+        "similarity_percentage": "71.7%",
+        "source_title": "Shriya Pilgaonkar: Why do you think she couldn't make it big ...",
+        "source_url": "https://www.reddit.com/r/BollyBlindsNGossip/comments/1ig41tm/shriya_pilgaonkar_why_do_you_think_she_couldnt/",
+        "image_url": "https://preview.redd.it/shriya-pilgaonkar-why-do-you-think-she-couldnt-make-it-big-v0-9agbe9kisrge1.jpeg?auto=webp&s=7c0772f23a13fd20da36b6b96a5a358b28c2fdc6",
+        "source_domain": "Reddit",
+        "platform": "Reddit",
+        "is_social_media": true,
+        "candidate_image_sha256": "c34530b69dc485bcc0cb6f25c17ae6a869c11cf346f449f295ade94a4594569c"
+      },
+      {
+        "rank": 15,
+        "similarity_score": 0.711,
+        "similarity_percentage": "71.1%",
+        "source_title": "The Hollywood Reporter India on X: \"With two big-screen ...",
+        "source_url": "https://x.com/THRIndia_/status/2095463420732837946",
+        "image_url": "https://pbs.twimg.com/card_img/2095463413950648320/S6CYQdIo?format=jpg&name=orig",
+        "source_domain": "x.com",
+        "platform": "X (Twitter)",
+        "is_social_media": true,
+        "candidate_image_sha256": "da48211f88ed230a3842520d2831e7e5a4b99fe152f5500ddcb430f6d43bbc4c"
+      },
+      {
+        "rank": 16,
+        "similarity_score": 0.6928,
+        "similarity_percentage": "69.3%",
+        "source_title": "Shriya Pilgaonkar Life Story | Biography - YouTube",
+        "source_url": "https://www.youtube.com/watch?v=680xOp7dfCs",
+        "image_url": "https://i.ytimg.com/vi/680xOp7dfCs/maxresdefault.jpg",
+        "source_domain": "YouTube",
+        "platform": "YouTube",
+        "is_social_media": true,
+        "candidate_image_sha256": "21ccdd4837eb1815dd6c23d284e5ae2b0b2494192b603ba7a780bb14958feefc"
+      },
+      {
+        "rank": 17,
+        "similarity_score": 0.6475,
+        "similarity_percentage": "64.8%",
+        "source_title": "9 Shriya Pilgaonkar ideas | actresses, indian actresses, actors",
+        "source_url": "https://uk.pinterest.com/asamqureshi0225193/shriya-pilgaonkar/",
+        "image_url": "https://i.pinimg.com/236x/00/95/3f/00953f220279f16bf3da20b1e1a6b530.jpg",
+        "source_domain": "Pinterest",
+        "platform": "Pinterest",
+        "is_social_media": true,
+        "candidate_image_sha256": "443f4ee75164dabe2dc495617d8495d0d4901c1ae2739f94f401e87344f2484b"
+      }
+    ]
+  }
+}

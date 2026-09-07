@@ -1,0 +1,141 @@
+{
+  "evidence_hash": "1357c3fc2efc18e7a3715df441a588c80469dee8fbed9e5f270be8cb1f0ae25e",
+  "payload": {
+    "evidence_version": "1.1",
+    "timestamp_utc": "2026-09-07T07:36:51.108243+00:00",
+    "timestamp_unix": 1788766611,
+    "search_engine": "google_lens",
+    "verification_threshold": 0.65,
+    "input_source": "temp_uploads\\Screenshot_2026-09-07-12-49-41-27_680d03679600f7af0b4c700c6b270fe7.jpg",
+    "input_file_sha256": "f7900f3f7d88f4e06823d159db21b6309d2d5be20bb6083977bc6ef0977f083e",
+    "face_detection": {
+      "det_score": 0.8535510301589966,
+      "embedding_sha256": "92407167c399b458e6aba425b301df5f7da084767e00a8747641b63bde407745",
+      "bbox": [
+        314,
+        133,
+        779,
+        789
+      ]
+    },
+    "verified_matches_count": 9,
+    "social_media_summary": {
+      "total_social_matches": 2,
+      "total_general_web_matches": 7,
+      "platforms_detected": {
+        "X (Twitter)": 1,
+        "Pinterest": 1
+      }
+    },
+    "matches": [
+      {
+        "rank": 1,
+        "similarity_score": 0.9696,
+        "similarity_percentage": "97.0%",
+        "source_title": "Mona Shandilya on X: \"In the Bhojpuri film industry, almost ...",
+        "source_url": "https://x.com/RoseTint4/status/2092609242477871392",
+        "image_url": "https://pbs.twimg.com/media/HQpxA8QWYAA3meB.jpg",
+        "source_domain": "x.com",
+        "platform": "X (Twitter)",
+        "is_social_media": true,
+        "candidate_image_sha256": "e4c547d1157bd034fdfabf34507b5710c66c48bb940828c82fbc9c712f41b64d"
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.9694,
+        "similarity_percentage": "96.9%",
+        "source_title": "Monalisa",
+        "source_url": "https://www.pinterest.com/gopalannataraja/monalisa/",
+        "image_url": "https://i.pinimg.com/474x/a3/62/5c/a3625c489a5e4cae1502964642173f0d.jpg",
+        "source_domain": "Pinterest",
+        "platform": "Pinterest",
+        "is_social_media": true,
+        "candidate_image_sha256": "8ac4af8ee2a40877a810f61151783636541d401e93824c89bf2f1f2c64b4e256"
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.9636,
+        "similarity_percentage": "96.4%",
+        "source_title": "Antara Biswas (Monalisa) Movies | New and Upcoming Movies Of ...",
+        "source_url": "https://www.filmibeat.com/celebs/antara-biswas/upcoming-movies.html",
+        "image_url": "https://images.filmibeat.com/img/popcorn/profile_photos/antarabiswas-20240620083334-57961.jpg",
+        "source_domain": "Filmibeat",
+        "platform": "Filmibeat",
+        "is_social_media": false,
+        "candidate_image_sha256": "dc7ac569f1c1a8e726de1f370d96a50fe821eac1a82cbc7b032a24e1348652ba"
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.9601,
+        "similarity_percentage": "96.0%",
+        "source_title": "Antara Biswas (Monalisa) Movies | Antara Biswas (Monalisa ...",
+        "source_url": "https://www.filmibeat.com/celebs/antara-biswas.html",
+        "image_url": "https://images.filmibeat.com/192x258/img/popcorn/profile_photos/antarabiswas-20240620083334-57961.jpg",
+        "source_domain": "Filmibeat",
+        "platform": "Filmibeat",
+        "is_social_media": false,
+        "candidate_image_sha256": "22e2cc5f269f99c08ed1199cbfd50b84620aa23c892e62224355094d07c59f9d"
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.803,
+        "similarity_percentage": "80.3%",
+        "source_title": "Mona Lisa on 'Zindagi Ka U-Turn': This project felt like a ...",
+        "source_url": "https://www.socialnews.xyz/2025/11/03/mona-lisa-on-zindagi-ka-u-turn-this-project-felt-like-a-turning-point-in-my-career/",
+        "image_url": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2025/11/04/202511043563392.jpeg?w=777&crop=0,10,777px,437px",
+        "source_domain": "Social News XYZ",
+        "platform": "Social News XYZ",
+        "is_social_media": false,
+        "candidate_image_sha256": "9eed77a08b589f7a6c91b6723b4abf027cb177f80ff571f6507cdd7fce52b32f"
+      },
+      {
+        "rank": 6,
+        "similarity_score": 0.7282,
+        "similarity_percentage": "72.8%",
+        "source_title": "Monalisa: \u0935\u092f\u093e\u091a\u094d\u092f\u093e 40 \u0935\u094d\u092f\u093e \u0935\u0930\u094d\u0937\u0940\u0939\u0940 ...",
+        "source_url": "https://saamtv.esakal.com/ampstories/web-stories/bhojpuri-actress-monalisa-fitness-secret-viral-on-social-media-sbk90",
+        "image_url": "https://cf-images.assettype.com/saamtv/2023-08/13642fb6-2bd8-45b9-a150-52c32e5ce448/aslimonalisa_323949946_2580562555419672_432512741324613973_n.jpg?rect=0,63,1080,608&w=1200&h=675&auto=format,compress&fit=crop",
+        "source_domain": "Saam Tv",
+        "platform": "Saam Tv",
+        "is_social_media": false,
+        "candidate_image_sha256": "b5debae8d87e90f3c424166e2434b380527b5ea75002305e16f3018bee37080b"
+      },
+      {
+        "rank": 7,
+        "similarity_score": 0.7027,
+        "similarity_percentage": "70.3%",
+        "source_title": "Actress Monalisa nude : Latest News, Photos, Videos on ...",
+        "source_url": "https://www.ibc24.in/topic/actress-monalisa-nude",
+        "image_url": "https://media.ibc24.in/wp-content/uploads/2023/01/monalisha-01.jpg",
+        "source_domain": "IBC24",
+        "platform": "IBC24",
+        "is_social_media": false,
+        "candidate_image_sha256": "028832f6abd2e68f45bc77cf27712742e7d53ffb31c5d228d01082abed3d3b4c"
+      },
+      {
+        "rank": 8,
+        "similarity_score": 0.6928,
+        "similarity_percentage": "69.3%",
+        "source_title": "\u0905\u091c\u092f \u0926\u0947\u0935\u0917\u0928 \u0915\u0947 \u0938\u093e\u0925 \u0915\u093e\u092e \u0915\u0930 \u091a\u0941\u0915\u0940\u0902 ...",
+        "source_url": "https://hindi.news18.com/photogallery/entertainment/bollywood-bhojpuri-film-actress-monalisa-or-antara-biswas-who-worked-with-ajay-devgan-did-a-bold-and-hot-photoshoot-see-photos-nodkp-3299485.html",
+        "image_url": "https://images.news18.com/ibnkhabar/uploads/2020/10/Monalisa-1200-13-Instagram.jpg?im=Resize,width=400,aspect=fit,type=normal",
+        "source_domain": "News18 Hindi",
+        "platform": "News18 Hindi",
+        "is_social_media": false,
+        "candidate_image_sha256": "710849cf36603b84c8c7276a4de805d9a973a068a11f7f956259f5e723d3984a"
+      },
+      {
+        "rank": 9,
+        "similarity_score": 0.6616,
+        "similarity_percentage": "66.2%",
+        "source_title": "Antara Biswas",
+        "source_url": "https://www.manoramaonline.com/web-stories/movies/2024/09/09/actress-antara-biswas-dazzling-pictures.html",
+        "image_url": "https://img-mm.manoramaonline.com/content/dam/mm/mo/web-stories/movies/images/2024/9/9/antara-biswas-2.jpg?w=520&h=291",
+        "source_domain": "Manorama Online",
+        "platform": "Manorama Online",
+        "is_social_media": false,
+        "candidate_image_sha256": "d3215484becb42531a659e95087d890fcbc7955ac5ffe6b9727fb5ce60d2439d"
+      }
+    ]
+  }
+}

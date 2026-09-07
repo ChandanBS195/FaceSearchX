@@ -1,0 +1,24 @@
+{
+  "evidence_hash": "2fd7272366a1105ca23d26f60d8650b97641606f6d1fd2a66d4c74a6eb8af4fe",
+  "payload": {
+    "evidence_version": "1.0",
+    "timestamp_utc": "2026-09-02T08:10:59.931057+00:00",
+    "timestamp_unix": 1788336659,
+    "search_engine": "google_lens",
+    "verification_threshold": 0.5,
+    "input_source": "C:\\Users\\chand\\Downloads\\FaceID\\FaceTraceX\\Abhay.jpg",
+    "input_file_sha256": "662359e5bc29155d3891462bd8c5b27a72de9704c303da1a947a01e2df2e59d0",
+    "face_detection": {
+      "det_score": 0.8085038661956787,
+      "embedding_sha256": "7b6b874dc544996f9ea14a9a57165f7bf82e0f2a31926648e640e654543a6b7a",
+      "bbox": [
+        334,
+        179,
+        550,
+        471
+      ]
+    },
+    "verified_matches_count": 0,
+    "matches": []
+  }
+}

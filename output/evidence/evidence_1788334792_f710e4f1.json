@@ -1,0 +1,135 @@
+{
+  "evidence_hash": "f710e4f164bf929659d63318de26ab17d5066756b0002853cde7d5f6e94ba915",
+  "payload": {
+    "evidence_version": "1.0",
+    "timestamp_utc": "2026-09-02T07:39:52.764698+00:00",
+    "timestamp_unix": 1788334792,
+    "search_engine": "google_lens",
+    "verification_threshold": 0.5,
+    "input_source": "c:\\Users\\chand\\Downloads\\FaceID\\Resources\\Screenshot 2026-09-02 113110.png",
+    "input_file_sha256": "e31245f599b94b4b16784d64f8ac8f24c833a80691ee22c109b5f1ed84ea8094",
+    "face_detection": {
+      "det_score": 0.8763922452926636,
+      "embedding_sha256": "85209689fb3b8ab934723c082e05e79834a4626ef7c8b81131300c23086f3eef",
+      "bbox": [
+        217,
+        68,
+        432,
+        373
+      ]
+    },
+    "verified_matches_count": 11,
+    "matches": [
+      {
+        "rank": 1,
+        "similarity_score": 0.9552,
+        "similarity_percentage": "95.52%",
+        "source_title": "8 Shraddha kapoor ideas | shraddha kapoor, shraddha kapoor ...",
+        "source_url": "https://in.pinterest.com/faisalah787/shraddha-kapoor/",
+        "image_url": "https://i.pinimg.com/236x/70/2e/03/702e03b29d3134052f7140a6762fc0ce.jpg",
+        "source_domain": "Pinterest",
+        "candidate_image_sha256": "1585e261b1b3adac60bb9ec06dd8ed83604d326063ec45d5cd39b5ecaef2c04b"
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.8396,
+        "similarity_percentage": "83.96%",
+        "source_title": "Photos: Shraddha Kapoor spotted at Film City",
+        "source_url": "https://www.bollywoodhungama.com/mobile/news/parties-and-events/photos-shraddha-kapoor-spotted-film-city/",
+        "image_url": "https://media5.bollywoodhungama.in/wp-content/uploads/2020/02/Photos-Shraddha-Kapoor-spotted-at-Film-City-1-346x260.jpg",
+        "source_domain": "Bollywood Hungama",
+        "candidate_image_sha256": "fff3215687bab6bf722e2228d5ed8dd05c37ddfe5f19485375496d9cb1ccafad"
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.7832,
+        "similarity_percentage": "78.32%",
+        "source_title": "8 Beautiful indian actress ideas | beautiful indian actress ...",
+        "source_url": "https://www.pinterest.com/artisty2025/beautiful-indian-actress/",
+        "image_url": "https://i.pinimg.com/236x/1d/a5/f7/1da5f79634d7f9cd2b25dc148ea6c2f6.jpg",
+        "source_domain": "Pinterest",
+        "candidate_image_sha256": "f8400201b3825975e060f8c6cd1c20e763fbfba4c723b6f27a17b61c892cdb66"
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.7155,
+        "similarity_percentage": "71.55%",
+        "source_title": "Discover 97 shra and aesthetic picture of shraddha kapoor ...",
+        "source_url": "https://in.pinterest.com/riyachoudharyucemsp/shra/",
+        "image_url": "https://i.pinimg.com/736x/73/4c/7a/734c7aec756251bcc9fc629459582049.jpg",
+        "source_domain": "Pinterest",
+        "candidate_image_sha256": "24b71c10dd90b43e20d085301d2a69d21673287665b8642304d924e5c9fcb85e"
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.6846,
+        "similarity_percentage": "68.46%",
+        "source_title": "Shraddha Kapoor Serves Minimal Beauty Goals In Glossy Lips ...",
+        "source_url": "https://www.ndtv.com/lifestyle/shraddha-kapoor-serves-minimal-beauty-goals-in-glossy-lips-and-wavy-tresses-8116327",
+        "image_url": "https://c.ndtvimg.com/2025-04/6di412a8_s_625x300_08_April_25.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+        "source_domain": "NDTV",
+        "candidate_image_sha256": "85dab53c07057f792bb803039bf653854d657d3ddaa0f19725f99d1a09281b3c"
+      },
+      {
+        "rank": 6,
+        "similarity_score": 0.6787,
+        "similarity_percentage": "67.87%",
+        "source_title": "Shraddha Kapoor 24\u00d77 on X: \"Smile For spreading happiness ...",
+        "source_url": "https://x.com/ShraddhaKNet/status/784424590894399493",
+        "image_url": "https://pbs.twimg.com/media/CuLV3AEXgAAFSIm.jpg",
+        "source_domain": "x.com",
+        "candidate_image_sha256": "6055c36c0542899e2e1937c727d6c85160fa44c953c555fc7b2bf736fec4cc6a"
+      },
+      {
+        "rank": 7,
+        "similarity_score": 0.661,
+        "similarity_percentage": "66.1%",
+        "source_title": "Shraddha is stubborn, charges more: Shakti Kapoor on why ...",
+        "source_url": "https://www.indiatoday.in/movies/celebrities/story/shraddha-is-stubborn-charges-more-shakti-kapoor-on-why-daughter-does-fewer-films-2841150-2025-12-24",
+        "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202512/shraddha-is-stubborn--charges-more-shakti-kapoor-on-why-daughter-does-fewer-films-243257927-3x4.jpg?VersionId=TqFTBS0FHL_ulL_8UrMSVBPSDWF7hvFb",
+        "source_domain": "India Today",
+        "candidate_image_sha256": "5895d43d6302d14921663c2d60ddcaa5fe0be4157d284da2471c989b9955a5e6"
+      },
+      {
+        "rank": 8,
+        "similarity_score": 0.6365,
+        "similarity_percentage": "63.65%",
+        "source_title": "Kiara Advani \ud83e\udd75",
+        "source_url": "https://x.com/JusticeStudio/status/2085862698164564199",
+        "image_url": "https://pbs.twimg.com/profile_images/2090044608562565120/rTL5YKC3.jpg",
+        "source_domain": "x.com",
+        "candidate_image_sha256": "24f652a009ceb343732abc49a064615f8f32c42163c3d2037158a8fd62bb0a6c"
+      },
+      {
+        "rank": 9,
+        "similarity_score": 0.6317,
+        "similarity_percentage": "63.17%",
+        "source_title": "Sharddha Kapoor's heavenly face. : r/shraddhakapoor",
+        "source_url": "https://www.reddit.com/r/shraddhakapoor/comments/jib5l4/sharddha_kapoors_heavenly_face/",
+        "image_url": "https://i.redd.it/8qxyhu7ilev51.jpg",
+        "source_domain": "Reddit",
+        "candidate_image_sha256": "db58747cd3b5c2226bf40f61a989c792cfaa331b3c52793b99dfe4dccab2449b"
+      },
+      {
+        "rank": 10,
+        "similarity_score": 0.6003,
+        "similarity_percentage": "60.03%",
+        "source_title": "\u0428\u0440\u0430\u0434\u0434\u0445\u0430 \u041a\u0430\u043f\u0443\u0440 (Shraddha Kapoor): \u0444\u0438\u043b\u044c\u043c\u044b, \u0431\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u044f, \u0441\u0435\u043c\u044c\u044f ...",
+        "source_url": "https://www.kinopoisk.ru/name/1832985/",
+        "image_url": "https://avatars.mds.yandex.net/get-kinopoisk-image/4486362/c9398ec3-e295-4bb4-8965-a56eb64c6e57/220x330",
+        "source_domain": "\u041a\u0438\u043d\u043e\u043f\u043e\u0438\u0441\u043a",
+        "candidate_image_sha256": "8527c9a50f32117b0a625d0e03a250e4db65c0136c0769e8cd075e2159ca2bb2"
+      },
+      {
+        "rank": 11,
+        "similarity_score": 0.5298,
+        "similarity_percentage": "52.98%",
+        "source_title": "33 Shraddha kPoor ideas in 2026",
+        "source_url": "https://www.google.com/goto?url=CAESawHrOzAVh1waGUPb8ajaQmmoCpRjjyvNECfW-Cy_08JDSJi0IUwdBFging45LhlH0Lbkezwx1qTJFOWUA70fNmRLUqVlk2fZEhpmNKQOz81vDsjwR3t05EUyoTJ4JGg-tNbqJRdeI7dZHw-i",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAvHsySx0IFGq7KA-XLD-0moV9viiozmzjkQhwAjsYYa7Ech0R2emrmQ&s",
+        "source_domain": "Pinterest \u00b7 cloudismad",
+        "candidate_image_sha256": "950122606bf80182c1b9c065ee4243e472e04838ee9992a4032d91b4ef639234"
+      }
+    ]
+  }
+}

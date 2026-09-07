@@ -1,0 +1,190 @@
+{
+  "evidence_hash": "777e036e12f0784cf80a4c7735b4400180d2ccc31ad5ee66b87c940953b0a3b0",
+  "payload": {
+    "evidence_version": "1.1",
+    "timestamp_utc": "2026-09-02T08:44:11.329903+00:00",
+    "timestamp_unix": 1788338651,
+    "search_engine": "google_lens",
+    "verification_threshold": 0.5,
+    "input_source": "C:\\Users\\chand\\Downloads\\FaceID\\Resources\\screshhdhdh.jpg",
+    "input_file_sha256": "c6e451b2d6205d03662f31147c5deab980499d3cc11aea3be13cfe4c46f63b39",
+    "face_detection": {
+      "det_score": 0.8380962610244751,
+      "embedding_sha256": "39cd95c53af82bff49a3f5b5b61b5daaed92011c5fbdc9f8c91716fb5f9e3b88",
+      "bbox": [
+        372,
+        116,
+        648,
+        487
+      ]
+    },
+    "verified_matches_count": 13,
+    "social_media_summary": {
+      "total_social_matches": 5,
+      "total_general_web_matches": 8,
+      "platforms_detected": {
+        "X (Twitter)": 3,
+        "Facebook": 1,
+        "Instagram": 1
+      }
+    },
+    "matches": [
+      {
+        "rank": 1,
+        "similarity_score": 0.9591,
+        "similarity_percentage": "95.9%",
+        "source_title": "\u0938\u0941\u092a\u0930-30: \u090b\u0924\u093f\u0915 \u0930\u094b\u0936\u0928 \u0915\u0940 \u092b\u093f\u0932\u094d\u092e \u0915\u0947 \u0932\u093f\u090f ...",
+        "source_url": "https://www.jansatta.com/entertainment/hritik-roshan-biopic-movie-based-on-anand-kumar-real-life-story-super-30-casting-30-actors-but-auditioned-more-than-15-thousand-yet/514199/",
+        "image_url": "https://images.jansatta.com/2017/12/Hritik-Roshan.jpg",
+        "source_domain": "Jansatta",
+        "platform": "Jansatta",
+        "is_social_media": false,
+        "candidate_image_sha256": "c8e87503ec1f41c497a6ff921b6c6decc390b0abb865fe2bf75a9395dbde69f0"
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.9572,
+        "similarity_percentage": "95.7%",
+        "source_title": "THE VENGEANCE\ud83e\udd87 on X: \"Hrithik Roshan in French Beard \ud83d\udd25\" / X",
+        "source_url": "https://x.com/iamvengeance11/status/1501190336000843779",
+        "image_url": "https://pbs.twimg.com/media/FNVMpnFaUAMSArX.jpg",
+        "source_domain": "x.com",
+        "platform": "X (Twitter)",
+        "is_social_media": true,
+        "candidate_image_sha256": "368067ce06ae637affa83e48c4123226bc0d78e08b27e5b4d3aa9220dee014d8"
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.9481,
+        "similarity_percentage": "94.8%",
+        "source_title": "Hrithik Roshan - actor, producer, director",
+        "source_url": "https://en.kinorium.com/name/4048/",
+        "image_url": "https://images.kinorium.com/persona/180/4048.jpg?1769533706",
+        "source_domain": "Kinorium",
+        "platform": "Kinorium",
+        "is_social_media": false,
+        "candidate_image_sha256": "2b57f7589ac4602502f42ef0917c6105da86648dc09bca5717ddfb0dfdc63679"
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.946,
+        "similarity_percentage": "94.6%",
+        "source_title": "Films Which Hrithik Roshan Lost out to Others",
+        "source_url": "https://www.indiatodayne.in/visualstories/webstories/films-which-hrithik-roshan-lost-out-to-others-94879-31-01-2024",
+        "image_url": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2024/01/cropped-hrithik-1-1.jpg?size=900:1200",
+        "source_domain": "India Today NE",
+        "platform": "India Today NE",
+        "is_social_media": false,
+        "candidate_image_sha256": "5fe4d7d8c2ddb877918f89538687f922a1978ecaace6870e075a6880b7206d8e"
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.9144,
+        "similarity_percentage": "91.4%",
+        "source_title": "Hrithik Roshan: I do films that appeal to the human side of me ...",
+        "source_url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshan-i-do-films-that-appeal-to-the-human-side-of-me/articleshow/60198266.cms",
+        "image_url": "https://static.toiimg.com/thumb/msid-60198573,width-1280,height-720,resizemode-4/60198573.jpg",
+        "source_domain": "The Times of India",
+        "platform": "The Times of India",
+        "is_social_media": false,
+        "candidate_image_sha256": "01158852fbc0430eb724f9005b6fa3b6777e3aba7235b0010757c3e34e64cd11"
+      },
+      {
+        "rank": 6,
+        "similarity_score": 0.8965,
+        "similarity_percentage": "89.7%",
+        "source_title": "THE VENGEANCE\ud83e\udd87 on X: \"Hrithik Roshan in French ...",
+        "source_url": "https://x.com/iamvengeance11/status/1501190336000843779",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvaEqydt0FPJw9h6CdRrMAA7N9kX8kEEKEDbPQVngbMcBD1iu1NiWI&usqp=CAE&s",
+        "source_domain": "X \u00b7 iamvengeance11",
+        "platform": "X (Twitter)",
+        "is_social_media": true,
+        "candidate_image_sha256": "d8ef08cc33d399dcea13f51709f0817552d901a7a4996a55e8fec9bfed7bdf32"
+      },
+      {
+        "rank": 7,
+        "similarity_score": 0.8726,
+        "similarity_percentage": "87.3%",
+        "source_title": "Hrithik Roshan: The tireless fighter",
+        "source_url": "https://www.forbesindia.com/article/2014-celebrity-100/hrithik-roshan-the-tireless-fighter/39237/1",
+        "image_url": "https://images.forbesindia.com/blog/wp-content/uploads/media/images/2014/Dec/img_78923_hrithik_sm.jpg?im=Resize,width=320,aspect=fit,type=normal",
+        "source_domain": "Forbes India",
+        "platform": "Forbes India",
+        "is_social_media": false,
+        "candidate_image_sha256": "c9c875b9bd6bd896d29dbf358a4dbbd7325289e556a227b7786131ddc26d7273"
+      },
+      {
+        "rank": 8,
+        "similarity_score": 0.8553,
+        "similarity_percentage": "85.5%",
+        "source_title": "Discover 42 Hrithik roshan and hrithik roshan eyes ideas ...",
+        "source_url": "https://www.pinterest.com/20safy/hrithik-roshan/",
+        "image_url": "https://i.pinimg.com/originals/40/ff/5a/40ff5a070280d8bb2f4aa419e0806097.jpg",
+        "source_domain": "Pinterest",
+        "platform": "X (Twitter)",
+        "is_social_media": true,
+        "candidate_image_sha256": "e231c15471d6451eae1efaa32194701a9daa7222ccd5ab1a52d531a7ed15c073"
+      },
+      {
+        "rank": 9,
+        "similarity_score": 0.8524,
+        "similarity_percentage": "85.2%",
+        "source_title": "The Top 10 Most Handsome Men in the World",
+        "source_url": "https://www.tumblr.com/glynnisi/161403890260/the-top-10-most-handsome-men-in-the-world-the",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbun-r3va-b0NYSnPFezCjCvVqONwNI6bPfojDj3jsVVbQxZ10jno&usqp=CAE&s",
+        "source_domain": "Tumblr",
+        "platform": "Tumblr",
+        "is_social_media": false,
+        "candidate_image_sha256": "5432d4c344ab40d4f12f321f83bc772dbbd3d082f9a5ebba716e83e56a3a3157"
+      },
+      {
+        "rank": 10,
+        "similarity_score": 0.8309,
+        "similarity_percentage": "83.1%",
+        "source_title": "Actor Hrithik Roshan attends the European Premiere of 'Kites ...",
+        "source_url": "https://www.gettyimages.com/detail/news-photo/actor-hrithik-roshan-attends-the-european-premiere-of-kites-news-photo/99883764",
+        "image_url": "https://media.gettyimages.com/id/99883764/photo/kites-european-premiere-inside-arrivals.jpg?s=594x594&w=gi&k=20&c=HnUFxJ1-Gue0hHXZ85H7TaWq74o9qgUWvFZdIUpLUI4=",
+        "source_domain": "Getty Images",
+        "platform": "Getty Images",
+        "is_social_media": false,
+        "candidate_image_sha256": "d247a2b20eb0a0ea1e7488860087477564635c22dfabd511c833e62738726287"
+      },
+      {
+        "rank": 11,
+        "similarity_score": 0.804,
+        "similarity_percentage": "80.4%",
+        "source_title": "I want 1k subscribers please support me",
+        "source_url": "https://www.facebook.com/100068497881982/photos/",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcUZShD8fv5eF6VY2wEToVEU6W2K286js9FDUYJQTxJbxJqrwe3E6A&usqp=CAE&s",
+        "source_domain": "Facebook",
+        "platform": "Facebook",
+        "is_social_media": true,
+        "candidate_image_sha256": "57c4a2628ddcf327951fe77b2b3be4be99358e89dd679be0ad9ce39f59187f37"
+      },
+      {
+        "rank": 12,
+        "similarity_score": 0.7987,
+        "similarity_percentage": "79.9%",
+        "source_title": "Anything difficult is my axis point to growth: Hrithik ...",
+        "source_url": "https://www.indiatoday.in/home-right/story/hrithik-roshan-anything-difficult-is-my-axis-point-to-growth-211938-2013-09-22",
+        "image_url": "https://akm-img-a-in.tosshub.com/sites/media2/indiatoday/images/stories/2013aug/2013september/hrithik-roshan_660_092013050307_092313113422.jpg",
+        "source_domain": "India Today",
+        "platform": "India Today",
+        "is_social_media": false,
+        "candidate_image_sha256": "ba4966a9e4e06875cd0eca8bae471c0ebde127f4a971ad47a0dcb431f949f981"
+      },
+      {
+        "rank": 13,
+        "similarity_score": 0.7937,
+        "similarity_percentage": "79.4%",
+        "source_title": "One word for Hrithik\ud83d\ude0d\u2764\ufe0f . . Follow for more updates ...",
+        "source_url": "https://www.instagram.com/reel/DReUXe6j2nj/",
+        "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3773543112455973347",
+        "source_domain": "Instagram",
+        "platform": "Instagram",
+        "is_social_media": true,
+        "candidate_image_sha256": "b2f263c408fc5aeb1e266fd6c1f2165dcc2cd271e003d82bd7178058565a3da4"
+      }
+    ]
+  }
+}

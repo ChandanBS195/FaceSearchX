@@ -1,0 +1,238 @@
+{
+  "evidence_hash": "f1739329db0263515b4b99cef879b51f0fe355ee21acc8d130b8b6fbf7bcb602",
+  "payload": {
+    "evidence_version": "1.1",
+    "timestamp_utc": "2026-09-06T16:32:10.263935+00:00",
+    "timestamp_unix": 1788712330,
+    "search_engine": "google_lens",
+    "verification_threshold": 0.5,
+    "input_source": ".\\Screenshot 2026-09-06 215915.png",
+    "input_file_sha256": "a72a66df8a94266a1b7d0c5422da566003e47412ca445cc80718ccfa1e78864c",
+    "face_detection": {
+      "det_score": 0.8594487309455872,
+      "embedding_sha256": "cf022ff806fc0e20729cf192d99bc886d171f2bfd8a6c826475b707a61732720",
+      "bbox": [
+        159,
+        26,
+        302,
+        232
+      ]
+    },
+    "verified_matches_count": 17,
+    "social_media_summary": {
+      "total_social_matches": 5,
+      "total_general_web_matches": 12,
+      "platforms_detected": {
+        "X (Twitter)": 3,
+        "Facebook": 1,
+        "YouTube": 1
+      }
+    },
+    "matches": [
+      {
+        "rank": 1,
+        "similarity_score": 0.9826,
+        "similarity_percentage": "98.3%",
+        "source_title": "Jeff Bezos: Biography, Amazon Founder, Blue Origin Founder",
+        "source_url": "https://www.biography.com/business-leaders/jeff-bezos",
+        "image_url": "https://hips.hearstapps.com/hmg-prod/images/jeff-bezos-at-the-11th-breakthrough-prize-ceremony-held-at-news-photo-1751043609.pjpeg?crop=0.713xw:0.970xh;0.0918xw,0.0301xh&resize=640:*",
+        "source_domain": "Biography",
+        "platform": "Biography",
+        "is_social_media": false,
+        "candidate_image_sha256": "b970667e9b1e604a90066defcfc9b298c730ffc87a8bc35b65368ef44c3424bb"
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.9717,
+        "similarity_percentage": "97.2%",
+        "source_title": "Pulitzer Board Sticks it to Bezos By Awarding Cartoonist Who ...",
+        "source_url": "https://www.thedailybeast.com/pulitzer-board-sticks-it-to-bezos-by-awarding-cartoonist-who-lampooned-him/",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/thedailybeast/3HZSV75GHZAHPEFUYTKDNX4Y4I.jpg",
+        "source_domain": "The Daily Beast",
+        "platform": "X (Twitter)",
+        "is_social_media": true,
+        "candidate_image_sha256": "5b8dd1d92157caeaca8e46aa172e2ef5a6a49a50dd39771ce15d239d4c2c5d65"
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.8707,
+        "similarity_percentage": "87.1%",
+        "source_title": "Pulitzers Stick it to Bezos By Awarding Cartoonist Who ...",
+        "source_url": "https://www.thedailybeast.com/pulitzer-board-sticks-it-to-bezos-by-awarding-cartoonist-who-lampooned-him/",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgONM1HFG1qMUcXBvvf-yZZ5XA6YhtMp3W3N95AdSLfNo4IlHQInC3&usqp=CAE&s",
+        "source_domain": "The Daily Beast",
+        "platform": "X (Twitter)",
+        "is_social_media": true,
+        "candidate_image_sha256": "e264cbc63ffa13df4a4a4e718adb0864982c0fb6308e49eb8a6aa4bfb215b789"
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.8673,
+        "similarity_percentage": "86.7%",
+        "source_title": "A former Amazon executive was paid more than ...",
+        "source_url": "https://www.facebook.com/bloombergbusiness/posts/a-former-amazon-executive-was-paid-more-than-800000-in-2021-to-run-jeff-bezoss-p/572821394703958/",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwky6oNUjxTHA9WI2ckERZhG35ltQ6OBu2MKyaAcLCNwL-vdMAOxpk&usqp=CAE&s",
+        "source_domain": "Facebook \u00b7 Bloomberg",
+        "platform": "Facebook",
+        "is_social_media": true,
+        "candidate_image_sha256": "64f9b9969f1d1bd2dcef582ef2b486109c0065e50dca5ec98ef4b45e4fa379f4"
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.8558,
+        "similarity_percentage": "85.6%",
+        "source_title": "Jeff Bezos Reportedly Offloads Seattle Mansion for $63 Million ...",
+        "source_url": "https://www.architecturaldigest.com/story/jeff-bezos-reportedly-offloads-seattle-mansion-in-record-breaking-sale",
+        "image_url": "https://media.architecturaldigest.com/photos/67fd2181004e3193dfc2d68b/4:3/w_2664,h_1998,c_limit/GettyImages-2208752482.jpg",
+        "source_domain": "Architectural Digest",
+        "platform": "X (Twitter)",
+        "is_social_media": true,
+        "candidate_image_sha256": "f29ca20a1702095275819c5de3ed772c6a0e928bef1784d09ca5aba7d90a1ad5"
+      },
+      {
+        "rank": 6,
+        "similarity_score": 0.847,
+        "similarity_percentage": "84.7%",
+        "source_title": "Jeff Bezos: I Got Rich When I Understood This | GOBankingRates",
+        "source_url": "https://www.gobankingrates.com/money/wealth/jeff-bezos-got-rich-understood-this/",
+        "image_url": "https://cdn.gobankingrates.com/wp-content/uploads/2024/03/jeff-bezos-vanity-fair-oscar-party-mar-10-2024_BLU_A92868639.jpg?w=675&quality=75&webp=1",
+        "source_domain": "Go Banking Rates",
+        "platform": "Go Banking Rates",
+        "is_social_media": false,
+        "candidate_image_sha256": "0ceb9e65d208c707badb2b04b942a5683900f1933ad5dd9b2ae7a3b143ebf22a"
+      },
+      {
+        "rank": 7,
+        "similarity_score": 0.8345,
+        "similarity_percentage": "83.5%",
+        "source_title": "Jeff Bezos Likes 'Messy' Meetings Because He Thinks You ...",
+        "source_url": "https://www.businessinsider.com/jeff-bezos-messy-meetings-amazon-founder-achieve-more-2024-12",
+        "image_url": "https://i.insider.com/6758133edc8b666017f23a99?width=1200&format=jpeg",
+        "source_domain": "Business Insider",
+        "platform": "Business Insider",
+        "is_social_media": false,
+        "candidate_image_sha256": "6f95654dd69f7fb321103b2cfeaaeb1dd66824b41f5e29924e4dc105ac436932"
+      },
+      {
+        "rank": 8,
+        "similarity_score": 0.8306,
+        "similarity_percentage": "83.1%",
+        "source_title": "Video Jeff Bezos sparks debate about taxes - ABC News",
+        "source_url": "https://abcnews.com/video/133187928/",
+        "image_url": "https://i.abcnewsfe.com/a/e97211f0-5c85-4257-b554-f6d4907c2cb1/260521_gmafl_bezos_taxes_2_vert_hpMain_9x16.jpg?w=1600",
+        "source_domain": "ABC News",
+        "platform": "ABC News",
+        "is_social_media": false,
+        "candidate_image_sha256": "04ab34f0d85c35accb9fc64ff53a2bdbb71796f8829860977e6276acd5a43cad"
+      },
+      {
+        "rank": 9,
+        "similarity_score": 0.7992,
+        "similarity_percentage": "79.9%",
+        "source_title": "I Tried to Cut a Deal With Jeff Bezos. Here's What Happened.",
+        "source_url": "https://www.entrepreneur.com/starting-a-business/i-tried-to-cut-a-deal-with-jeff-bezos-heres-what-happened/438573",
+        "image_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2022/11/1669220846-shutterstock-2176893831.jpg",
+        "source_domain": "Entrepreneur",
+        "platform": "Entrepreneur",
+        "is_social_media": false,
+        "candidate_image_sha256": "3dfb03025df11347509bacda310b68d60ec2617f39d4be16ccb8b1e5bafcfefe"
+      },
+      {
+        "rank": 10,
+        "similarity_score": 0.7785,
+        "similarity_percentage": "77.8%",
+        "source_title": "Richest In Florida: Billionaire Jeff Bezos Is Still In His ...",
+        "source_url": "https://www.youtube.com/shorts/JzOMMemPdUI",
+        "image_url": "https://i.ytimg.com/vi/JzOMMemPdUI/frame0.jpg",
+        "source_domain": "YouTube",
+        "platform": "YouTube",
+        "is_social_media": true,
+        "candidate_image_sha256": "b47e78c7f8d6406d2073f366bae0948e81cbeda127882c11bcd1dd8e6757c550"
+      },
+      {
+        "rank": 11,
+        "similarity_score": 0.7603,
+        "similarity_percentage": "76.0%",
+        "source_title": "Who Is Jeff Bezos? | Observer",
+        "source_url": "https://observer.com/person/jeff-bezos/",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUxljQdTmpSdt__QAYMzyJoPD8T6C3aZDkWo8wCg_fAWywRosprwQcqdxfr01KKXevPpTCCA&s",
+        "source_domain": "observer.com",
+        "platform": "observer.com",
+        "is_social_media": false,
+        "candidate_image_sha256": "35340ebcae85eebec2cc3d3e0a79000138b323aaae9eac23a3643cc5fca11f4c"
+      },
+      {
+        "rank": 12,
+        "similarity_score": 0.7247,
+        "similarity_percentage": "72.5%",
+        "source_title": "The Washington Post is a reminder of the dangers of ...",
+        "source_url": "https://www.theguardian.com/commentisfree/2024/oct/29/washington-post-endorsement-jeff-bezos-billionaire-newspaper-ownership",
+        "image_url": "https://i.guim.co.uk/img/media/b9a3cdd9aee5b187166531dfaa8f3cb9046c0fab/0_197_4111_2467/master/4111.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=872dd0111ce5f72b7e6dc2d5382d2be4",
+        "source_domain": "The Guardian",
+        "platform": "The Guardian",
+        "is_social_media": false,
+        "candidate_image_sha256": "607b0d70b32deaadc9c992e00aed6426b188e2d74969b7f6872ed9f96b406345"
+      },
+      {
+        "rank": 13,
+        "similarity_score": 0.6687,
+        "similarity_percentage": "66.9%",
+        "source_title": "Jeff Bezos | Biography, Wedding, Amazon.com, & Facts ...",
+        "source_url": "https://www.britannica.com/money/Jeff-Bezos",
+        "image_url": "https://cdn.britannica.com/56/199056-050-CCC44482/Jeff-Bezos-2017.jpg",
+        "source_domain": "Britannica",
+        "platform": "Britannica",
+        "is_social_media": false,
+        "candidate_image_sha256": "f25a47d86ef35c86595cd5708f4734d8bdd26522a3f3c6285daddc545263c0b3"
+      },
+      {
+        "rank": 14,
+        "similarity_score": 0.6664,
+        "similarity_percentage": "66.6%",
+        "source_title": "Jeff Bezos' Career As Amazon's Founder and Former CEO ...",
+        "source_url": "https://www.businessinsider.com/jeff-bezos-life-career-education",
+        "image_url": "https://i.insider.com/646e6d17a739dc001809407c?width=1200&format=jpeg",
+        "source_domain": "Business Insider",
+        "platform": "Business Insider",
+        "is_social_media": false,
+        "candidate_image_sha256": "ecbb893bce8603695f9d00797d9d289b3105423a22cd531591d32af1f34034cc"
+      },
+      {
+        "rank": 15,
+        "similarity_score": 0.6352,
+        "similarity_percentage": "63.5%",
+        "source_title": "Lynn Boylan",
+        "source_url": "https://jacobin.com/author/lynn-boylan",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgt-zzTiUgzeKD6NJcOeuwj_dpATT2q_68_V5qpQBpX70Z6bZr5Xsz&usqp=CAE&s",
+        "source_domain": "Jacobin",
+        "platform": "Jacobin",
+        "is_social_media": false,
+        "candidate_image_sha256": "c336184162ce9c4b40b3054d9749cc6a2871ef305a4d65857df9c770a2f71057"
+      },
+      {
+        "rank": 16,
+        "similarity_score": 0.6352,
+        "similarity_percentage": "63.5%",
+        "source_title": "Alma Dufour",
+        "source_url": "https://jacobin.com/author/alma-dufour",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgt-zzTiUgzeKD6NJcOeuwj_dpATT2q_68_V5qpQBpX70Z6bZr5Xsz&usqp=CAE&s",
+        "source_domain": "Jacobin",
+        "platform": "Jacobin",
+        "is_social_media": false,
+        "candidate_image_sha256": "c336184162ce9c4b40b3054d9749cc6a2871ef305a4d65857df9c770a2f71057"
+      },
+      {
+        "rank": 17,
+        "similarity_score": 0.6072,
+        "similarity_percentage": "60.7%",
+        "source_title": "Jeff Bezos - Simple English Wikipedia, the free encyclopedia",
+        "source_url": "https://simple.wikipedia.org/wiki/Jeff_Bezos",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Jeff_Bezos_visits_LAAFB_SMC_(3908618)_(cropped).jpeg/250px-Jeff_Bezos_visits_LAAFB_SMC_(3908618)_(cropped).jpeg?utm_source=simple.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "source_domain": "Simple Wikipedia",
+        "platform": "Simple Wikipedia",
+        "is_social_media": false,
+        "candidate_image_sha256": "e3ff69e37c8fef34113af1bb667218c39e87f1c43ec926327a4a89d134fd4412"
+      }
+    ]
+  }
+}

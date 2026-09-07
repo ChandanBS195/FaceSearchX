@@ -1,0 +1,80 @@
+{
+  "evidence_hash": "fe952f1a32f0d673a9b525ece4ffff0e87b7b6ff4fee1d9432f988d0798949af",
+  "payload": {
+    "evidence_version": "1.1",
+    "timestamp_utc": "2026-09-02T08:36:00.269839+00:00",
+    "timestamp_unix": 1788338160,
+    "search_engine": "google_lens",
+    "verification_threshold": 0.5,
+    "input_source": "c:\\Users\\chand\\Downloads\\FaceID\\Resources\\Screenshot 2026-09-02 100028.png",
+    "input_file_sha256": "c54381b7a197ddb332ab46e4c3e3a66227e420d5e7c6a2b46c700355ca8d6506",
+    "face_detection": {
+      "det_score": 0.7963916659355164,
+      "embedding_sha256": "a71b758dce0a56967b9924e5a284f8806b48b6c6d95003cabba90a2e64774fd3",
+      "bbox": [
+        245,
+        51,
+        395,
+        235
+      ]
+    },
+    "verified_matches_count": 4,
+    "social_media_summary": {
+      "total_social_matches": 1,
+      "total_general_web_matches": 3,
+      "platforms_detected": {
+        "Facebook": 1
+      }
+    },
+    "matches": [
+      {
+        "rank": 1,
+        "similarity_score": 0.8463,
+        "similarity_percentage": "84.6%",
+        "source_title": "Warm birthday wishes to you, dear Gautam Bhai. Your ...",
+        "source_url": "https://www.facebook.com/NaveenJindalMP/posts/warm-birthday-wishes-to-you-dear-gautam-bhaiyour-visionary-leadership-and-extrao/1258589835630701/",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwQTZ39kCcidJqopuaVywBU6pw4ANtxMsQ8Y7KYwvdX10p2hpRNxy&usqp=CAE&s",
+        "source_domain": "Facebook \u00b7 Naveen Jindal",
+        "platform": "Facebook",
+        "is_social_media": true,
+        "candidate_image_sha256": "26ed7ac4f606a21d8bf78478bd36c61dc2755daa43841f4cdccf2a1cef6770a3"
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.8073,
+        "similarity_percentage": "80.7%",
+        "source_title": "Gautam Adani",
+        "source_url": "https://en.wikipedia.org/wiki/Gautam_Adani",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnivmtSwCGxB7eJV2fFo0WCXWvJ_yuh-isaCun9NVAdRe6-WS2hI8&usqp=CAE&s",
+        "source_domain": "Wikipedia",
+        "platform": "Wikipedia",
+        "is_social_media": false,
+        "candidate_image_sha256": "014c1bafc10712352ca32de53cbc4e151db8981b6b972fb2483df60fdf2b53ab"
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.7473,
+        "similarity_percentage": "74.7%",
+        "source_title": "Gautam Adani | Biography, Business, Family, Indictment, & ...",
+        "source_url": "https://www.britannica.com/biography/Gautam-Adani",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuUDQ1a-9sB_rQ7SYGFgSYNYK8E-oEnm8ZkvtSMlT97zy50i-UWdBR&usqp=CAE&s",
+        "source_domain": "Britannica",
+        "platform": "Britannica",
+        "is_social_media": false,
+        "candidate_image_sha256": "4ba0e24896b6f3dbe94a2d02ca5f41b9b624c92f306490aa456a4911222d4d99"
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.7074,
+        "similarity_percentage": "70.7%",
+        "source_title": "Gautam Adani - Simple English Wikipedia, the free ...",
+        "source_url": "https://simple.wikipedia.org/wiki/Gautam_Adani",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRLD-RPY_icqbkvwY3F19DopZOMCgcPcD1GZjDPaJSZSX2b4F_dcVM&usqp=CAE&s",
+        "source_domain": "Wikipedia",
+        "platform": "Wikipedia",
+        "is_social_media": false,
+        "candidate_image_sha256": "2013dcb4d1bb7f488a2266a829f6011e903c851902e38726ec90b0bf393efbb1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "evidence_hash": "2048ef75237ecf6e59af7b2e847087d7f513b9cc96784bace2fd42e50682cdb1",
+  "payload": {
+    "evidence_version": "1.0",
+    "timestamp_utc": "2026-09-02T07:49:15.360194+00:00",
+    "timestamp_unix": 1788335355,
+    "search_engine": "google_lens",
+    "verification_threshold": 0.5,
+    "input_source": "c:\\Users\\chand\\Downloads\\FaceID\\Resources\\Screenshot 2026-09-02 101153.png",
+    "input_file_sha256": "14e787dfd6389aacf98997d761adb05916af3ca28eb0b17c46195dbbeb95084d",
+    "face_detection": {
+      "det_score": 0.8748354911804199,
+      "embedding_sha256": "e071f992d7e224f0b45d5e6ed32a216ec66164c4cad2bcf248af36540fa5395a",
+      "bbox": [
+        207,
+        72,
+        373,
+        286
+      ]
+    },
+    "verified_matches_count": 2,
+    "matches": [
+      {
+        "rank": 1,
+        "similarity_score": 0.8727,
+        "similarity_percentage": "87.27%",
+        "source_title": "After Reliance's bid, Mumbai Indians welcome The ...",
+        "source_url": "https://m.economictimes.com/news/sports/after-reliances-bid-mumbai-indians-welcome-the-hundreds-london-based-franchise-oval-invincibles/articleshow/118123530.cms",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29WJS5OMGikLMoLBkul39OTLU5o61OJZOZFqFqq20jByag1c3JoW4&usqp=CAE&s",
+        "source_domain": "The Economic Times",
+        "candidate_image_sha256": "675ea92d395c405070c4c689b14bd4ebf31a70a7339f98aadcf9b2593d23aa4c"
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.675,
+        "similarity_percentage": "67.5%",
+        "source_title": "Mukesh Ambani",
+        "source_url": "https://en.wikipedia.org/wiki/Mukesh_Ambani",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfFtyPyWgIbRe6uyKzxXysRLX1UNZ5mUxHIaXwlkKXYg4Jk_FSGbd&usqp=CAE&s",
+        "source_domain": "Wikipedia",
+        "candidate_image_sha256": "70e31e19d8d7ae30be0af9a367364ee9ea45d82281072ef53ee4ef6ef62dc090"
+      }
+    ]
+  }
+}

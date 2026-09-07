@@ -1,0 +1,105 @@
+{
+  "evidence_hash": "1a73f7c6c9a2f378c8c6ee9c10fad10f2dac7fd68795aef1812132897c849333",
+  "payload": {
+    "evidence_version": "1.0",
+    "timestamp_utc": "2026-09-02T07:11:10.038398+00:00",
+    "timestamp_unix": 1788333070,
+    "search_engine": "google_lens",
+    "verification_threshold": 0.5,
+    "input_source": "c:\\Users\\chand\\Downloads\\FaceID\\Resources\\Screenshot 2026-09-02 101153.png",
+    "input_file_sha256": "14e787dfd6389aacf98997d761adb05916af3ca28eb0b17c46195dbbeb95084d",
+    "face_detection": {
+      "det_score": 0.8748354911804199,
+      "embedding_sha256": "e071f992d7e224f0b45d5e6ed32a216ec66164c4cad2bcf248af36540fa5395a",
+      "bbox": [
+        207,
+        72,
+        373,
+        286
+      ]
+    },
+    "verified_matches_count": 8,
+    "matches": [
+      {
+        "rank": 1,
+        "similarity_score": 0.9741,
+        "similarity_percentage": "97.41%",
+        "source_title": "8 facts about 88-year-old restaurant where Mukesh Ambani ...",
+        "source_url": "https://recipes.timesofindia.com/web-stories/8-facts-about-88-year-old-restaurant-where-mukesh-ambani-loves-to-eat-every-week/photostory/108304473.cms",
+        "image_url": "https://static.toiimg.com/thumb/msid-108304480,imgsize-55244,width-900,height-1200,resizemode-6/108304480.jpg",
+        "source_domain": "Times Food",
+        "candidate_image_sha256": "6553ad16e5177df97660d3f39b6eab7a3b3b6e4fedfc4311334505c56674f79b"
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.8727,
+        "similarity_percentage": "87.27%",
+        "source_title": "After Reliance's bid, Mumbai Indians welcome The ...",
+        "source_url": "https://m.economictimes.com/news/sports/after-reliances-bid-mumbai-indians-welcome-the-hundreds-london-based-franchise-oval-invincibles/articleshow/118123530.cms",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29WJS5OMGikLMoLBkul39OTLU5o61OJZOZFqFqq20jByag1c3JoW4&usqp=CAE&s",
+        "source_domain": "The Economic Times",
+        "candidate_image_sha256": "675ea92d395c405070c4c689b14bd4ebf31a70a7339f98aadcf9b2593d23aa4c"
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.7987,
+        "similarity_percentage": "79.87%",
+        "source_title": "Mukesh Ambani, chairman and managing director ...",
+        "source_url": "https://www.facebook.com/Nairametrics/posts/mukesh-ambani-chairman-and-managing-director-of-reliance-industries-has-a-net-wo/1497332722438683/",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR60QKm6pdiBDA09CnlNuW4YpiSceq6_TYdasho3dSdL4pR_PFPK7SK&usqp=CAE&s",
+        "source_domain": "Facebook \u00b7 Nairametrics",
+        "candidate_image_sha256": "88ecdf64fa4a5d38296df9356b317aee402aa2298a5b88ac9c89b9404bbe9dcf"
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.675,
+        "similarity_percentage": "67.5%",
+        "source_title": "Mukesh Ambani",
+        "source_url": "https://en.wikipedia.org/wiki/Mukesh_Ambani",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfFtyPyWgIbRe6uyKzxXysRLX1UNZ5mUxHIaXwlkKXYg4Jk_FSGbd&usqp=CAE&s",
+        "source_domain": "Wikipedia",
+        "candidate_image_sha256": "70e31e19d8d7ae30be0af9a367364ee9ea45d82281072ef53ee4ef6ef62dc090"
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.6636,
+        "similarity_percentage": "66.36%",
+        "source_title": "Mukesh Ambani",
+        "source_url": "https://baike.baidu.com/en/item/Mukesh%20Ambani/1497822",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7-ckxXtaesiC8ib-XKGxGiL99WJPV20T590CtajELUaG4G9K7wtK&usqp=CAE&s",
+        "source_domain": "\u767e\u5ea6\u767e\u79d1",
+        "candidate_image_sha256": "ba961dcee33c012d54bf075caa4a99db8ca69a5715121ece6eaf828fffd2208f"
+      },
+      {
+        "rank": 6,
+        "similarity_score": 0.6395,
+        "similarity_percentage": "63.95%",
+        "source_title": "Mukesh Ambani",
+        "source_url": "https://www.forbes.com/profile/mukesh-ambani/",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAO6b9appZTzmELb85KWSPCp4CqBREL6S4dqyIYdfrTb2tleh_unV9&usqp=CAE&s",
+        "source_domain": "Forbes",
+        "candidate_image_sha256": "8197274d2726c420ab7be3f6a1c97463d2c56d54a67e9d9a6b0449ed919143da"
+      },
+      {
+        "rank": 7,
+        "similarity_score": 0.6326,
+        "similarity_percentage": "63.26%",
+        "source_title": "Mukesh Ambani | Biography, Companies, & Family",
+        "source_url": "https://www.britannica.com/money/Mukesh-Ambani",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwIvZjTsj-GzGVBlKA4wkhfbCd-6raRW-e6h5xu3aRZjzJi69eHnPd&usqp=CAE&s",
+        "source_domain": "Britannica",
+        "candidate_image_sha256": "66ec0c8ff54ab39b9fa40c32bf959c32b9e92807d3bca81a6c143c4bad318ca7"
+      },
+      {
+        "rank": 8,
+        "similarity_score": 0.629,
+        "similarity_percentage": "62.9%",
+        "source_title": "A Look into Mukesh Ambani's Massive Fortune",
+        "source_url": "https://medium.com/@alihassan00110013/a-look-into-mukesh-ambanis-massive-fortune-understanding-india-s-richest-man-s-financial-kingdom-5ed0e8ffb5e8",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Txd9CsmoXBegE-0rzSMGl2mcgwfUOFHtxU1BXMLKkhBYW_tI_P1l&usqp=CAE&s",
+        "source_domain": "Medium \u00b7 Finance Triple $",
+        "candidate_image_sha256": "50f1e413d1fc4913d978081f90dee3ad18e1d57142f08997cf09102716a51061"
+      }
+    ]
+  }
+}
